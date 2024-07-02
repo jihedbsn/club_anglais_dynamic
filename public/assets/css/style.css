@@ -7337,6 +7337,8 @@ Footer Area CSS
     position: relative;
     z-index: 1;
     overflow: hidden;
+    width: 100%; /* Ensure the box takes the full width of the parent */
+    height: 80px; /* Set a fixed height for the boxes */
 }
 
 .single-footer-widget .photo-gallery-list li .box .link-btn {
@@ -7352,6 +7354,9 @@ Footer Area CSS
 .single-footer-widget .photo-gallery-list li .box img {
     -webkit-transition: 0.5s;
     transition: 0.5s;
+    width: 100%; /* Ensure the image covers the width of the box */
+    height: 100%; /* Ensure the image covers the height of the box */
+    object-fit: cover; /* Ensure the image covers the box without distortion */
 }
 
 .single-footer-widget .photo-gallery-list li .box::before {

@@ -138,66 +138,58 @@
                         <ul class="photo-gallery-list">
                             <li>
                                 <div class="box">
-                                    <img src="assets/img/footer-gallery/footer-gallery-1.jpg" alt="image">
-                                    <a href="#" target="_blank" class="link-btn"></a>
+                                    <img src="assets/img/clubanglais/DSCF1552-2.jpg" alt="image">
                                 </div>
                             </li>
 
                             <li>
                                 <div class="box">
-                                    <img src="assets/img/footer-gallery/footer-gallery-2.jpg" alt="image">
-                                    <a href="#" target="_blank" class="link-btn"></a>
+                                    <img src="assets/img/clubanglais/DSCF4577-2.jpg" alt="image">
                                 </div>
                             </li>
 
                             <li>
                                 <div class="box">
-                                    <img src="assets/img/footer-gallery/footer-gallery-3.jpg" alt="image">
-                                    <a href="#" target="_blank" class="link-btn"></a>
+                                    <img src="assets/img/clubanglais/DSCF4579-2.jpg" alt="image">
                                 </div>
                             </li>
 
                             <li>
                                 <div class="box">
-                                    <img src="assets/img/footer-gallery/footer-gallery-4.jpg" alt="image">
-                                    <a href="#" target="_blank" class="link-btn"></a>
+                                    <img src="assets/img/clubanglais/DSCF4582-2.jpg" alt="image">
                                 </div>
                             </li>
 
                             <li>
                                 <div class="box">
-                                    <img src="assets/img/footer-gallery/footer-gallery-5.jpg" alt="image">
-                                    <a href="#" target="_blank" class="link-btn"></a>
+                                    <img src="assets/img/clubanglais/DSCF4728-2.jpg" alt="image">
                                 </div>
                             </li>
 
                             <li>
                                 <div class="box">
-                                    <img src="assets/img/footer-gallery/footer-gallery-6.jpg" alt="image">
-                                    <a href="#" target="_blank" class="link-btn"></a>
+                                    <img src="assets/img/clubanglais/DSCF4870-2.jpg" alt="image">
                                 </div>
                             </li>
 
                             <li>
                                 <div class="box">
-                                    <img src="assets/img/footer-gallery/footer-gallery-1.jpg" alt="image">
-                                    <a href="#" target="_blank" class="link-btn"></a>
+                                    <img src="assets/img/clubanglais/DSCF4982-2.jpg" alt="image">
                                 </div>
                             </li>
 
                             <li>
                                 <div class="box">
-                                    <img src="assets/img/footer-gallery/footer-gallery-2.jpg" alt="image">
-                                    <a href="#" target="_blank" class="link-btn"></a>
+                                    <img src="assets/img/clubanglais/DSCF5123-2.jpg" alt="image">
                                 </div>
                             </li>
 
                             <li>
                                 <div class="box">
-                                    <img src="assets/img/footer-gallery/footer-gallery-3.jpg" alt="image">
-                                    <a href="#" target="_blank" class="link-btn"></a>
+                                    <img src="assets/img/clubanglais/DSCF8368-2.jpg" alt="image">
                                 </div>
                             </li>
+
                         </ul>
                     </div>
                 </div>
