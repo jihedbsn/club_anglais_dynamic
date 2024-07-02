@@ -195,8 +195,8 @@
         </div>
 
         <!--          <div class="who-we-are-shape">
-                                                                                                                        <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
-                                                                                                                    </div> -->
+                                                                                                                            <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
+                                                                                                                        </div> -->
     </section>
     <!-- End Value Area -->
 
@@ -367,14 +367,7 @@
             </div>
         </div>
 
-        <!--             <div class="class-shape">
-                                                                                                                        <div class="shape-1">
-                                                                                                                            <img src="assets/img/class/class-shape-1.png" alt="image">
-                                                                                                                        </div>
-                                                                                                                        <div class="shape-2">
-                                                                                                                            <img src="assets/img/class/class-shape-2.png" alt="image">
-                                                                                                                        </div>
-                                                                                                                    </div> -->
+
     </section>
     <!-- End Class Area -->
     <!-- Start Testimonials Area -->
@@ -534,9 +527,9 @@
                                     Saturday afternoon
                                 </li>
                                 <!-- <li>
-                                                                                                                                                <i class='bx bxs-cart'></i>
-                                                                                                                                                4 weeks per session <br> 200 TND per session
-                                                                                                                                            </li> -->
+                                                                                                                                                    <i class='bx bxs-cart'></i>
+                                                                                                                                                    4 weeks per session <br> 200 TND per session
+                                                                                                                                                </li> -->
                             </ul>
                         </div>
                     </div>
@@ -589,8 +582,8 @@
                                 <img src="assets/img/choose/choose-shape-2.png" alt="image">
                             </div>
                             <!--  <div class="shape-3">
-                                                                                                                                            <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                                                                                                                        </div> -->
+                                                                                                                                                <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                            </div> -->
                         </div>
                     </div>
                 </div>
