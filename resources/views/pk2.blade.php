@@ -7,12 +7,12 @@
             <div class="d-table-cell">
                 <div class="container">
                     <div class="page-banner-content">
-                        <h2>Preschool 1 Program</h2>
+                        <h2>Preschool 2 Program</h2>
                         <ul>
                             <li>
                                 <a href="index.html">Home</a>
                             </li>
-                            <li>PK1</li>
+                            <li>PK2</li>
                         </ul>
                     </div>
                 </div>
@@ -175,7 +175,7 @@
 
                             <li>
                                 <span>Trimerter Fees:</span>
-                                2370 TD (790TD / Month)
+                                2370 TD (950TD / Month)
                             </li>
 
                         </ul>

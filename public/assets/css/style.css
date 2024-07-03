@@ -7613,6 +7613,10 @@ Buy Now Btn
 .slide-content {
     text-align: center;
     position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     top: 50%;
     transform: translateY(-80%);
     color: #fff;
@@ -7629,9 +7633,9 @@ Buy Now Btn
 }
 
 .slide-content .textual-content {
-    margin-left: 50%;
+    /* margin-left: 50%;
 
-    transform: translate(100px, 150px);
+    transform: translate(100px, 150px); */
 }
 
 .slide-content .textual-content p {
@@ -7738,4 +7742,11 @@ Buy Now Btn
 .catchphrase span:nth-child(1),
 .catchphrase span:nth-child(3) {
     color: #d21d1a;
+}
+
+.white-bg {
+    background-color: white;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 16px;
 }
