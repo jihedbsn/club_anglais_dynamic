@@ -93,7 +93,7 @@
                             <li>
                                 <i class='bx bx-envelope'></i>
                                 <span>Email</span>
-                                <a href="mailto:info@clubanglais.com">info@clubanglais.com</a>
+                                <a href="mailto:clubanglais.marsa@gmail.com">clubanglais.marsa@gmail.com</a>
                             </li>
                             <li>
                                 <i class='bx bx-map'></i>
@@ -110,22 +110,31 @@
 
                         <ul class="quick-links">
                             <li>
-                                <a href="index.html">Home </a>
+                                <a href="/">Home </a>
                             </li>
                             <li>
-                                <a href="preschools.html">Preschool Programs </a>
+                                <a href="pk1">PK1 </a>
                             </li>
                             <li>
-                                <a href="clubs.html">Club Activities </a>
+                                <a href="pk2">PK2 </a>
                             </li>
                             <li>
-                                <a href="summer-camp.html">Summer Camp </a>
+                                <a href="pk3">PK3 </a>
                             </li>
                             <li>
-                                <a href="blog.html">Blogs </a>
+                                <a href="pk4">PK4 </a>
                             </li>
                             <li>
-                                <a href="contact.html">Contact page </a>
+                                <a href="preschool-club">Club Activities </a>
+                            </li>
+                            <li>
+                                <a href="summer-camp">Summer Camp </a>
+                            </li>
+                            <li>
+                                <a href="blog">Blogs </a>
+                            </li>
+                            <li>
+                                <a href="contact">Contact page </a>
                             </li>
                         </ul>
                     </div>

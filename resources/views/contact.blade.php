@@ -91,7 +91,7 @@
                             <li><i class='bx bx-phone-call'></i> Call Us: <a href="tel:+01321654214">+216 20 909 757</a>
                             </li>
                             <li><i class='bx bx-envelope'></i> Email Us: <a
-                                    href="mailto:info@clubanglais.com">clubanglais.marsa@gmail.com</a> </li>
+                                    href="mailto:clubanglais.marsa@gmail.com">clubanglais.marsa@gmail.com</a> </li>
                         </ul>
 
                         <h3>Opening Hours:</h3>
