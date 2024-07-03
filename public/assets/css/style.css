@@ -7631,12 +7631,12 @@ Buy Now Btn
 .slide-content img {
     margin-top: 100px;
 }
-
+/*
 .slide-content .textual-content {
-    /* margin-left: 50%;
+     margin-left: 50%;
 
-    transform: translate(100px, 150px); */
-}
+    transform: translate(100px, 150px); 
+}*/
 
 .slide-content .textual-content p {
     color: #fff;
