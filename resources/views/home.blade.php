@@ -209,8 +209,8 @@
         </div>
 
         <!--          <div class="who-we-are-shape">
-                                                                                                                                                                <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
-                                                                                                                                                            </div> -->
+                                                                                                                                                                                                                        <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
+                                                                                                                                                                                                                    </div> -->
     </section>
     <!-- End Value Area -->
 
@@ -227,12 +227,12 @@
                     <div class="single-class">
                         <div class="class-image">
                             <a href="pk1">
-                                <img src="assets/img/class/class-1.jpg" alt="image">
+                                <img src="assets/img/clubanglais/pk1.jpeg" alt="image">
                             </a>
                         </div>
 
                         <div class="class-content">
-                            <div class="price">400TD /Month </div>
+                            <div class="price">480TD /Month </div>
                             <h3>
                                 <a href="pk1">PK 1</a>
                             </h3>
@@ -266,7 +266,7 @@
                     <div class="single-class">
                         <div class="class-image">
                             <a href="pk2">
-                                <img src="assets/img/class/class-2.jpg" alt="image">
+                                <img src="assets/img/clubanglais/pk2.jpg" alt="image">
                             </a>
                         </div>
 
@@ -509,15 +509,18 @@
     <section class="event-area bg-ffffff pt-100 pb-70">
         <div class="container">
             <div class="section-title">
-                <span>Clubs</span>
-                <h2>Our Club Activities</h2>
+                <span>Our Clubs</span>
+                <h2>
+                    Children simply learn better when they are fully engaged, highly
+                    motivated, and having fun.
+                </h2>
             </div>
 
             <div class="event-box-item">
                 <div class="row align-items-center">
                     <div class="col-md-4">
                         <div class="event-image">
-                            <img src="assets/img/sections3-image.png" alt="image">
+                            <img src="assets/img/clubanglais/preschool-club.png" alt="image">
                         </div>
                     </div>
 
@@ -541,38 +544,148 @@
                                     Saturday afternoon
                                 </li>
                                 <!-- <li>
-                                                                                                                                                                                        <i class='bx bxs-cart'></i>
-                                                                                                                                                                                        4 weeks per session <br> 200 TND per session
-                                                                                                                                                                                    </li> -->
+                                                                                                                                                                                                                                                <i class='bx bxs-cart'></i>
+                                                                                                                                                                                                                                                4 weeks per session <br> 200 TND per session
+                                                                                                                                                                                                                                            </li> -->
                             </ul>
                         </div>
                     </div>
 
                     <div class="col-md-3">
                         <div class="event-date">
-                            <h4>Ages: 3-5 y.o</h4>
+                            <h4>Ages: 2-5 y.o</h4>
                             <br>
                             <div class="class-btn">
-                                <a href="#" class="default-btn">Learn More</a>
+                                <a href="/preschool-club" class="default-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
 
+            <div class="event-box-item">
+                <div class="row align-items-center">
+                    <div class="col-md-4">
+                        <div class="event-image">
+                            <img src="assets/img/sections3-image.png" alt="image">
+                        </div>
+                    </div>
 
+                    <div class="col-md-5">
+                        <div class="event-content">
+                            <h3>
+                                Adventure Club
+                            </h3>
+                            <br>
+                            <p>Adventure Club consists of a variety of age-appropriate, hands-on, fun activities because
+                                research indicates that children simply learn better when they are fully engaged, highly
+                                motivated, and having fun.
+                            </p>
+                            <ul class="event-list">
+                                <li>
+                                    <i class='bx bx-time'></i>
+                                    Wednesday afternoon or
+                                    <!-- <br> -->
+                                    Saturday morning or
+                                    <!-- <br> -->
+                                    Saturday afternoon
+                                </li>
+                                <!-- <li>
+                                                                                                                                                                                                                                                <i class='bx bxs-cart'></i>
+                                                                                                                                                                                                                                                4 weeks per session <br> 200 TND per session
+                                                                                                                                                                                                                                            </li> -->
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="event-date">
+                            <h4>Ages: 6-14 y.o</h4>
+                            <br>
+                            <div class="class-btn">
+                                <a href="/adventure-club" class="default-btn">Learn More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
     <!-- End Event Area -->
     <!-- Start Choose Area -->
     <section class="choose-area pt-100 pb-70">
         <div class="container">
+            <div class="section-title">
+                <span>Camps</span>
+                <h2>What Parents Say About Us</h2>
+            </div>
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="single-choose-item">
+                        {{-- <span>Summer is here !</span> --}}
+                        <h3>Discover our preschool camp !</h3>
+                        <p>Every year we dedicate the 2nd half of June to our Preschool Camp. Over the span of 2 weeks, kids
+                            between the ages of 2 and 5 years old can be part of an immersive full day learning program.
+
+
+
+                        </p>
+                        <p>Daily sessions take place from 9AM to 5PM with a lunch break and a nap time in the middle of the
+                            day. </p>
+                        <p>
+                            The kids learn through fun qnd engaging activities, centered around themes appropriate to each
+                            age group.
+
+                        </p>
+                        <div class="choose-btn">
+                            <a href="#" class="default-btn">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="choose-image">
+                        <img src="assets/img/clubanglais/preschool-camp.png" alt="image">
+
+                        <div class="choose-image-shape">
+                            {{-- <div class="shape-1">
+                                <img src="assets/img/choose/choose-shape-1.png" alt="image">
+                            </div> --}}
+                            <div class="shape-2">
+                                <img src="assets/img/choose/choose-shape-2.png" alt="image">
+                            </div>
+                            <!--  <div class="shape-3">
+                                                                                                                                                                                                                                            <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                                                                                                                        </div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="choose-image">
+                        <img src="assets/img/section4-image.png" alt="image">
+
+                        <div class="choose-image-shape">
+                            <div class="shape-1">
+                                <img src="assets/img/choose/choose-shape-1.png" alt="image">
+                            </div>
+                            {{-- <div class="shape-2">
+                                <img src="assets/img/choose/choose-shape-2.png" alt="image">
+                            </div> --}}
+                            <!--  <div class="shape-3">
+                                                                                                                                                                                                                                            <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                                                                                                                        </div> -->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="single-choose-item">
                         <span>Summer is here !</span>
-                        <h3>Discover our summer camps !</h3>
-                        <p>Every summer ClubAnglais holds two intensive two-week Summer Camp sessions for children ages 6-14
+                        <h3>Discover the power camps !</h3>
+                        <p>Every summer ClubAnglais holds two intensive two-week Power Camp sessions for children ages 6-14
                             y.o. The camps schedule is from Monday through Friday from 9:00am until 4:00pm. </p>
                         <p>We teach English through fun, engaging activities such as sports, games, swimming, woodworking,
                             music, art and drama. </p>
@@ -584,23 +697,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6">
-                    <div class="choose-image">
-                        <img src="assets/img/section4-image.png" alt="image">
 
-                        <div class="choose-image-shape">
-                            <div class="shape-1">
-                                <img src="assets/img/choose/choose-shape-1.png" alt="image">
-                            </div>
-                            <div class="shape-2">
-                                <img src="assets/img/choose/choose-shape-2.png" alt="image">
-                            </div>
-                            <!--  <div class="shape-3">
-                                                                                                                                                                                    <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                                                                                                                                                                </div> -->
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </section>

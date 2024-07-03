@@ -3,8 +3,20 @@
         <div class="main-responsive-menu">
             <div class="logo">
                 <a href="{{ url('/') }}">
-                    <img src="{{ asset('assets/img/logo.png') }}" class="black-logo" alt="image">
-                    <img src="{{ asset('assets/img/logo.png') }}" class="white-logo" alt="image">
+                    <div class="logo-container">
+                        <h1 class="ca-logo"><span class="ca-logo-club">Club</span><span
+                                class="ca-logo-anglais">Anglais</span>
+                        </h1>
+                        <div class="catchphrase">
+                            <span>Work Hard</span>
+                            <span>Play Hard</span>
+                            <span>Learn English</span>
+                            <span>Have Fun</span>
+                        </div>
+                    </div>
+
+                    {{-- <img src="{{ asset('assets/img/logo.png') }}" class="black-logo" alt="image">
+                    <img src="{{ asset('assets/img/logo.png') }}" class="white-logo" alt="image"> --}}
                 </a>
             </div>
         </div>
@@ -66,37 +78,52 @@
                         </ul>
                     </li>
 
+                    <li class="nav-item">
+                        <a class="nav-link">
+                            Our clubs
+                            <i class='bx bx-chevron-down'></i>
 
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li class="nav-item">
+                                <a href="{{ url('/preschool-club') }}" class="nav-link">
+                                    Preschool club
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{{ url('/adventure-club') }}" class="nav-link">
+                                    Adventure club
+                                </a>
+                            </li>
+
+                        </ul>
+                    </li>
 
                     <li class="nav-item">
-                        <a href="{{ url('/preschool-club') }}" class="nav-link">
-                            Preschool Club
+                        <a class="nav-link">
+                            Our camps
+                            <i class='bx bx-chevron-down'></i>
+
                         </a>
+                        <ul class="dropdown-menu">
+                            <li class="nav-item">
+                                <a href="{{ url('/summer-camp') }}" class="nav-link">
+                                    Power camp
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="{{ url('/preschool-camp') }}" class="nav-link">
+                                    Preschool camp
+                                </a>
+                            </li>
 
-
+                        </ul>
                     </li>
-                    <li class="nav-item">
-                        <a href="{{ url('/summer-camp') }}" class="nav-link">
-                            Power Camp
-                        </a>
 
 
-                    </li>
                     {{-- <li class="nav-item">
-                        <a href="{{ url('/about') }}" class="nav-link">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="{{ url('/preschools') }}" class="nav-link">Preschool Programs</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="{{ url('/clubs') }}" class="nav-link">Club Activities</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="{{ url('/summer-camp') }}" class="nav-link">Summer Camp</a>
-                    </li> --}}
-                    <li class="nav-item">
                         <a href="{{ url('/blog') }}" class="nav-link">Blog</a>
-                    </li>
+                    </li> --}}
                 </ul>
 
                 <div class="others-options d-flex align-items-center">

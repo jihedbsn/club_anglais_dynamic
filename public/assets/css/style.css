@@ -2496,6 +2496,8 @@ Class Area CSS
     -webkit-transition: 0.5s;
     transition: 0.5s;
     border-radius: 5px 5px 0 0;
+    width: 100%;
+    height: 300px;
 }
 
 .single-class .class-content {
@@ -3300,6 +3302,8 @@ Event Area CSS
 
 .event-area .section-title h2 {
     color: #ffffff;
+    font-weight: normal;
+    font-size: 2rem;
 }
 
 .event-area.bg-color .container-fluid {
@@ -7708,6 +7712,7 @@ Buy Now Btn
 .ca-logo {
     font-family: "GillSansLight", "Poppins";
     margin-bottom: 0;
+    font-weight: normal;
 }
 
 .ca-logo-club {
@@ -7743,8 +7748,12 @@ Buy Now Btn
 }
 
 .white-bg {
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.8);
     width: fit-content;
-    padding: 20px;
+    padding: 5px;
     border-radius: 16px;
+}
+
+.big-logo-size {
+    font-size: 2.75rem;
 }

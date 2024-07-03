@@ -67,6 +67,9 @@ Route::get('/our-vision', function () {
 Route::get('/preschool-club', function () {
     return view('preschoolClub');
 });
+Route::get('/adventure-club', function () {
+    return view('adventureClub');
+});
 
 
 Route::get('/privacy-policy', function () {
@@ -77,7 +80,9 @@ Route::get('/privacy-policy', function () {
 Route::get('/summer-camp', function () {
     return view('summerCamp');
 });
-
+Route::get('/preschool-camp', function () {
+    return view('preschoolCamp');
+});
 Route::get('/terms-of-service', function () {
     return view('termsOfService');
 });

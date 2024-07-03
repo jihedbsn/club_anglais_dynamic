@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/dark.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}">
+    <link rel="icon" href="{{ asset('assets/img/favicon.png') }}" type="image/png">
 
     <title>ClubAnglais - Work Hard - Play Hard - Learn English - Have Fun </title>
 </head>
@@ -49,34 +50,38 @@
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-footer-widget">
-                        <h2 class="ca-logo"><span class="ca-logo-club">Club</span><span
-                                class="ca-logo-anglais">Anglais</span>
+                        <div class="white-bg">
+                            <h2 class="ca-logo big-logo-size"><span class="ca-logo-club">Club</span><span
+                                    class="ca-logo-anglais">Anglais</span></h2>
                             <div class="catchphrase">
                                 <span>Work Hard</span>
                                 <span>Play Hard</span>
                                 <span>Learn English</span>
                                 <span>Have Fun</span>
                             </div>
+                        </div>
 
 
-                            <ul class="social">
-                                <li>
-                                    <a href="#" target="_blank">
-                                        <i class='bx bxl-facebook'></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" target="_blank">
-                                        <i class='bx bxl-twitter'></i>
-                                    </a>
-                                </li>
 
-                                <li>
-                                    <a href="#" target="_blank">
-                                        <i class='bx bxl-linkedin'></i>
-                                    </a>
-                                </li>
-                            </ul>
+
+                        <ul class="social">
+                            <li>
+                                <a href="#" target="_blank">
+                                    <i class='bx bxl-facebook'></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank">
+                                    <i class='bx bxl-twitter'></i>
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="#" target="_blank">
+                                    <i class='bx bxl-linkedin'></i>
+                                </a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
 
