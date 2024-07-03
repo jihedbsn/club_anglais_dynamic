@@ -6,7 +6,7 @@
             <div class="slide slide-1">
                 <div class="slide-content">
                     {{-- <img src="{{ asset('assets/img/welcome-text.png') }}" alt="image"> --}}
-                    <div class="white-bg">
+                    {{-- <div class="white-bg">
                         <div class="logo-container">
                             <h1 class="ca-logo"><span class="ca-logo-club">Club</span><span
                                     class="ca-logo-anglais">Anglais</span>
@@ -18,10 +18,10 @@
                                 <span>Have Fun</span>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
 
                     <div class="textual-content">
-                        <p>We teach English through engaging activities such as sports, games, music, art, and drama.</p>
+                        <p>We teach English through engaging activities such as sports, games, music, art, and theatre.</p>
                         <div class="banner-btn">
                             <a href="#" class="default-btn">Learn More</a>
                             <a href="#" class="optional-btn">Find Out More</a>
@@ -209,8 +209,8 @@
         </div>
 
         <!--          <div class="who-we-are-shape">
-                                                                                                                                        <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
-                                                                                                                                    </div> -->
+                                                                                                                                                                <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
+                                                                                                                                                            </div> -->
     </section>
     <!-- End Value Area -->
 
@@ -226,7 +226,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="single-class">
                         <div class="class-image">
-                            <a href="#">
+                            <a href="pk1">
                                 <img src="assets/img/class/class-1.jpg" alt="image">
                             </a>
                         </div>
@@ -234,7 +234,7 @@
                         <div class="class-content">
                             <div class="price">400TD /Month </div>
                             <h3>
-                                <a href="#">PK 1</a>
+                                <a href="pk1">PK 1</a>
                             </h3>
                             <p>In PK1 we support and encourage the development of the children in the areas of
                                 self-regulation, positive relationships and group participation. </p>
@@ -256,7 +256,7 @@
                             </ul>
 
                             <div class="class-btn">
-                                <a href="#" class="default-btn">Learn More</a>
+                                <a href="pk1" class="default-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -265,7 +265,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="single-class">
                         <div class="class-image">
-                            <a href="#">
+                            <a href="pk2">
                                 <img src="assets/img/class/class-2.jpg" alt="image">
                             </a>
                         </div>
@@ -273,7 +273,7 @@
                         <div class="class-content">
                             <div class="price">950TD /Month </div>
                             <h3>
-                                <a href="#">PK 2</a>
+                                <a href="pk2">PK 2</a>
                             </h3>
                             <p>In PK2 we support and encourage the development of the children in the areas of
                                 self-regulation, positive relationships and group participation. </p>
@@ -295,7 +295,7 @@
                             </ul>
 
                             <div class="class-btn">
-                                <a href="#" class="default-btn">Learn More</a>
+                                <a href="pk2" class="default-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -304,7 +304,7 @@
                 <div class="col-lg-3 col-md-6 offset-lg-0 offset-md-3">
                     <div class="single-class">
                         <div class="class-image">
-                            <a href="#">
+                            <a href="pk3">
                                 <img src="assets/img/class/class-3.jpg" alt="image">
                             </a>
                         </div>
@@ -312,7 +312,7 @@
                         <div class="class-content">
                             <div class="price">950TD /Month </div>
                             <h3>
-                                <a href="#">PK 3</a>
+                                <a href="pk3">PK 3</a>
                             </h3>
                             <p>In PK3 we support and encourage the development of the children in the areas of
                                 self-regulation, positive relationships and group participation.</p>
@@ -334,7 +334,7 @@
                             </ul>
 
                             <div class="class-btn">
-                                <a href="#" class="default-btn">Learn More</a>
+                                <a href="pk3" class="default-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -343,7 +343,7 @@
                 <div class="col-lg-3 col-md-6 offset-lg-0 offset-md-3">
                     <div class="single-class">
                         <div class="class-image">
-                            <a href="#">
+                            <a href="pk4">
                                 <img src="assets/img/class/class-1.jpg" alt="image">
                             </a>
                         </div>
@@ -351,7 +351,7 @@
                         <div class="class-content">
                             <div class="price">950TD /Month </div>
                             <h3>
-                                <a href="#">PK 4</a>
+                                <a href="pk4">PK 4</a>
                             </h3>
                             <p>In PK4 we support and encourage the development of the children in the areas of
                                 self-regulation, positive relationships and group participation. </p>
@@ -373,7 +373,7 @@
                             </ul>
 
                             <div class="class-btn">
-                                <a href="#" class="default-btn">Learn More</a>
+                                <a href="pk4" class="default-btn">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -541,9 +541,9 @@
                                     Saturday afternoon
                                 </li>
                                 <!-- <li>
-                                                                                                                                                                <i class='bx bxs-cart'></i>
-                                                                                                                                                                4 weeks per session <br> 200 TND per session
-                                                                                                                                                            </li> -->
+                                                                                                                                                                                        <i class='bx bxs-cart'></i>
+                                                                                                                                                                                        4 weeks per session <br> 200 TND per session
+                                                                                                                                                                                    </li> -->
                             </ul>
                         </div>
                     </div>
@@ -596,8 +596,8 @@
                                 <img src="assets/img/choose/choose-shape-2.png" alt="image">
                             </div>
                             <!--  <div class="shape-3">
-                                                                                                                                                            <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                                                                                                                                        </div> -->
+                                                                                                                                                                                    <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                                                                </div> -->
                         </div>
                     </div>
                 </div>
