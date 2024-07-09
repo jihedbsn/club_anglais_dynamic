@@ -4332,6 +4332,11 @@ Page Banner CSS
 .page-banner-area.item-bg3 {
     background-image: url(../img/page-banner/page-banner-4.jpg);
 }
+
+.page-banner-area.item-advclub {
+    background-image: url(../img/advclubcover.jpeg);
+}
+
 .page-banner-area.item-pkclubcover {
     background-image: url(../img/pclubcover.jpeg);
 }

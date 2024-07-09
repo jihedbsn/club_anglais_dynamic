@@ -130,16 +130,30 @@
                                 <a href="pk4">PK4 </a>
                             </li>
                             <li>
+                                <a href="{{ url('/preschool-club') }}">
+                                    Preschool club
+                                </a>
+                            </li>
+                            <li>
+                                <a href="{{ url('/adventure-club') }}">
+                                    Adventure club
+                                </a>
+                            </li>
+                            <li>
                                 <a href="preschool-club">Club Activities </a>
                             </li>
                             <li>
-                                <a href="summer-camp">Summer Camp </a>
+                                <a href="{{ url('/summer-camp') }}">
+                                    Power camp
+                                </a>
                             </li>
                             <li>
-                                <a href="blog">Blogs </a>
+                                <a href="{{ url('/preschool-camp') }}">
+                                    Preschool camp
+                                </a>
                             </li>
                             <li>
-                                <a href="contact">Contact page </a>
+                                <a href="contact">Contact</a>
                             </li>
                         </ul>
                     </div>
