@@ -4332,11 +4332,31 @@ Page Banner CSS
 .page-banner-area.item-bg3 {
     background-image: url(../img/page-banner/page-banner-4.jpg);
 }
+.page-banner-area.item-pkclubcover {
+    background-image: url(../img/pkclub-cover.png);
+}
+.page-banner-area.item-pkcampcover {
+    background-image: url(../img/pkcampcover.jpg);
+}
+.page-banner-area.item-smcampcover {
+    background-image: url(../img/smcampcover.jpeg);
+}
 
 .page-banner-area.item-bg4 {
     background-image: url(../img/page-banner/page-banner-5.jpg);
 }
-
+.page-banner-area.item-pk1 {
+    background-image: url(../img/pk/pk1cover.jpeg);
+}
+.page-banner-area.item-pk2 {
+    background-image: url(../img/pk/pk2cover.jpg);
+}
+.page-banner-area.item-pk3 {
+    background-image: url(../img/pk/pk3cover.png);
+}
+.page-banner-area.item-pk4 {
+    background-image: url(../img/pk/pk4cover.png);
+}
 .page-banner-content {
     text-align: center;
 }

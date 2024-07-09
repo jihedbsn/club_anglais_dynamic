@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <div class="page-banner-area item-bg3">
+    <div class="page-banner-area item-smcampcover">
         <div class="d-table">
             <div class="d-table-cell">
                 <div class="container">
@@ -27,7 +27,7 @@
                 <div class="col-lg-8 col-md-12">
                     <div class="event-details-desc">
                         <div class="event-desc-image">
-                            <img src="assets/img/event-details.jpg" alt="image">
+                            <img src="assets/img/smcampmain.jpeg" alt="image">
                         </div>
 
                         <div class="event-desc-content">

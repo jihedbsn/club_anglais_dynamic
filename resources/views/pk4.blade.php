@@ -2,7 +2,7 @@
 
 @section('content')
     <!-- Start Page Banner -->
-    <div class="page-banner-area item-bg4">
+    <div class="page-banner-area item-pk4">
         <div class="d-table">
             <div class="d-table-cell">
                 <div class="container">
@@ -28,7 +28,9 @@
                 <div class="col-lg-8 col-md-12">
                     <div class="class-details-desc">
                         <div class="class-desc-image">
-                            <img src="assets/img/class-details.jpg" alt="image">
+                            <img src="assets/img/pk/pk4main.png" alt="image">
+
+                            {{-- <img src="assets/img/class-details.jpg" alt="image"> --}}
                         </div>
 
                         <div class="tab class-details-tab">

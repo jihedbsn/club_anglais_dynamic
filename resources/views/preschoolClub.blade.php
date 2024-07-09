@@ -2,7 +2,7 @@
 
 @section('content')
     <!-- Start Page Banner -->
-    <div class="page-banner-area item-bg3">
+    <div class="page-banner-area item-pkclubcover">
         <div class="d-table">
             <div class="d-table-cell">
                 <div class="container">
@@ -28,7 +28,7 @@
                 <div class="col-lg-8 col-md-12">
                     <div class="event-details-desc">
                         <div class="event-desc-image">
-                            <img src="assets/img/event-details.jpg" alt="image">
+                            <img src="assets/img/pkclubmain.jpg" alt="image">
                         </div>
 
                         <div class="event-desc-content">
