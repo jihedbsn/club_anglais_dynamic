@@ -158,12 +158,12 @@
                             </li>
                             <li>
                                 <span>Inscription Fees:</span>
-                                400 TD
+                                500 TD
                             </li>
 
                             <li>
-                                <span>Trimerter Fees:</span>
-                                1200 TD
+                                <span>Monthly Fees:</span>
+                                480 TD
                             </li>
 
                         </ul>

@@ -35,19 +35,31 @@
                             <h3>Discover Our Adventure Club</h3>
                             <p>The Adventure Club sessions take place once a week for 3 hours. You can pick the most
                                 suitable time for your child out of these 3 options: Wednesday 3.30pm-6.30pm, Saturday
-                                morning 9am-12pm or Saturday afternoon 2pm-5pm. </p>
-                            <p>Each session consists of a variety of age-appropriate, hands-on, fun activities because
-                                research indicates that children simply learn better when they fully engaged, highly
-                                motivated, and having fun.
-                                Activities include music, arts and crafts, games, read-aloud sessions, and supervised play.
-                                This is a full-immersion environment where children listen and speak only English for three
-                                hours, under the supervision of native English speakers. Although three hours per week is
-                                not enough for children to reach fluency it establishes a foundation for the children when
-                                their brains are developmentally adapted to language acquisition. Early immersion in a
-                                language is especially critical for acquiring native-like pronunciation.</p>
+                                morning 9am-12pm or Saturday afternoon 2pm-5pm. During each session students participate in
+
+                            </p>
+                            <ul style="list-style-type:none;">
+                                <li>1) house groups</li>
+                                <li>2) two fun, engaging activities,</li>
+                                <li>3) Language Club. </li>
+
+                            </ul>
+
+                            <p>
+                                At ClubAnglais we have developed curriculum for over 100 different fun activities designed
+                                to teach our
+                                students English and we come up with new ones every year. These activities include music,
+                                arts and crafts, games, cooking, woodworking, rocket club, science club, and over 10
+                                different sports.</p>
+
+                            <p>Although Language Club takes place in a classroom, it is not like school. Children learn
+                                English through engaging content, not by studying grammar. A few of the creative themes we
+                                have developed in Language Club include: Time Travel, Cultures of the World, Under the Sea,
+                                How to Change the World, Beautiful Tunisia. My Favorite Things, My Daily Routines,
+                                Dinosaurs, Super Heros, and Welcome to Planet Earth.</p>
                             <!-- <div id="map">
-                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.9476519598093!2d-73.99185268459418!3d40.74117737932881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a3f81d549f%3A0xb2a39bb5cacc7da0!2s175%205th%20Ave%2C%20New%20York%2C%20NY%2010010%2C%20USA!5e0!3m2!1sen!2sbd!4v1588746137032!5m2!1sen!2sbd"></iframe>
-                                        </div> -->
+                                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.9476519598093!2d-73.99185268459418!3d40.74117737932881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a3f81d549f%3A0xb2a39bb5cacc7da0!2s175%205th%20Ave%2C%20New%20York%2C%20NY%2010010%2C%20USA!5e0!3m2!1sen!2sbd!4v1588746137032!5m2!1sen!2sbd"></iframe>
+                                                                    </div> -->
                         </div>
                     </div>
                     <div class="centred-button">

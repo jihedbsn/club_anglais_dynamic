@@ -209,8 +209,8 @@
         </div>
 
         <!--          <div class="who-we-are-shape">
-                                                                                                                                                                                                                            <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
-                                                                                                                                                                                                                        </div> -->
+                                                                                                                                                                                                                                            <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
+                                                                                                                                                                                                                                        </div> -->
     </section>
     <!-- End Value Area -->
 
@@ -275,8 +275,10 @@
                             <h3>
                                 <a href="pk2">PK 2</a>
                             </h3>
-                            <p>In PK2 we support and encourage the development of the children in the areas of
-                                self-regulation, positive relationships and group participation. </p>
+                            <p>In PK2 we build on the growth from PK1 by helping the children develop independence in
+                                practical ways. We also support their ability to express emotions verbally and develop
+                                empathy for others in their class. We do all of this while introducing them to basic
+                                concepts of pre-literacy and mathematics. </p>
 
                             <ul class="class-list">
                                 <li>
@@ -314,8 +316,9 @@
                             <h3>
                                 <a href="pk3">PK 3</a>
                             </h3>
-                            <p>In PK3 we support and encourage the development of the children in the areas of
-                                self-regulation, positive relationships and group participation.</p>
+                            <p>In PK3 much of the focus is on a sense of community and belonging. Following instructions
+                                while learning to express ideas to the rest of the class is supported alongside increased
+                                growth in literacy, pre-writing and mathematics skills.</p>
 
                             <ul class="class-list">
                                 <li>
@@ -353,8 +356,10 @@
                             <h3>
                                 <a href="pk4">PK 4</a>
                             </h3>
-                            <p>In PK4 we support and encourage the development of the children in the areas of
-                                self-regulation, positive relationships and group participation. </p>
+                            <p>In PK4 our final goal is to prepare our students to transition to Kindergarten at the end of
+                                the year. These preparations do not only focus on the academic skills needed, such as
+                                literacy, writing and mathematics, but also in the areas of honesty, empathy, teamwork and
+                                self-confidence. </p>
 
                             <ul class="class-list">
                                 <li>
@@ -530,9 +535,9 @@
                                 Preschool Club
                             </h3>
                             <br>
-                            <p>Preschool Club consists of a variety of age-appropriate, hands-on, fun activities because
-                                research indicates that children simply learn better when they are fully engaged, highly
-                                motivated, and having fun.
+                            <p>Preschool Club consists of a variety of age-appropriate, hands-on, fun activities. Students
+                                are completely immersed in English for 3 hours. At first they mostly listen. As the program
+                                progresses students produce language through speaking and singing.
                             </p>
                             <ul class="event-list">
                                 <li>
@@ -544,9 +549,9 @@
                                     Saturday afternoon
                                 </li>
                                 <!-- <li>
-                                                                                                                                                                                                                                                    <i class='bx bxs-cart'></i>
-                                                                                                                                                                                                                                                    4 weeks per session <br> 200 TND per session
-                                                                                                                                                                                                                                                </li> -->
+                                                                                                                                                                                                                                                                    <i class='bx bxs-cart'></i>
+                                                                                                                                                                                                                                                                    4 weeks per session <br> 200 TND per session
+                                                                                                                                                                                                                                                                </li> -->
                             </ul>
                         </div>
                     </div>
@@ -577,9 +582,10 @@
                                 Adventure Club
                             </h3>
                             <br>
-                            <p>Adventure Club consists of a variety of age-appropriate, hands-on, fun activities because
-                                research indicates that children simply learn better when they are fully engaged, highly
-                                motivated, and having fun.
+                            <p>In Adventure Club we do our very best to make sure that all of our students participate in
+                                activities that they are truly passionate about. We change activities every four weeks to
+                                keep things fresh and exciting. Students also participate in a Language Club where they have
+                                an opportunity to work on reading and writing.
                             </p>
                             <ul class="event-list">
                                 <li>
@@ -591,9 +597,9 @@
                                     Saturday afternoon
                                 </li>
                                 <!-- <li>
-                                                                                                                                                                                                                                                    <i class='bx bxs-cart'></i>
-                                                                                                                                                                                                                                                    4 weeks per session <br> 200 TND per session
-                                                                                                                                                                                                                                                </li> -->
+                                                                                                                                                                                                                                                                    <i class='bx bxs-cart'></i>
+                                                                                                                                                                                                                                                                    4 weeks per session <br> 200 TND per session
+                                                                                                                                                                                                                                                                </li> -->
                             </ul>
                         </div>
                     </div>
@@ -655,8 +661,8 @@
                                 <img src="assets/img/choose/choose-shape-2.png" alt="image">
                             </div>
                             <!--  <div class="shape-3">
-                                                                                                                                                                                                                                                <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                                                                                                                                                                                                                            </div> -->
+                                                                                                                                                                                                                                                                <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                                                                                                                                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -675,8 +681,8 @@
                                 <img src="assets/img/choose/choose-shape-2.png" alt="image">
                             </div> --}}
                             <!--  <div class="shape-3">
-                                                                                                                                                                                                                                                <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                                                                                                                                                                                                                            </div> -->
+                                                                                                                                                                                                                                                                <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                                                                                                                                            </div> -->
                         </div>
                     </div>
                 </div>
