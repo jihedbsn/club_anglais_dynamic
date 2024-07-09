@@ -10,7 +10,7 @@
                         <h2>About</h2>
                         <ul>
                             <li>
-                                <a href="index.html">Home</a>
+                                <a href="/">Home</a>
                             </li>
                             <li>About</li>
                         </ul>
@@ -361,37 +361,37 @@
 
     <!-- Start Quote Area -->
     <!--         <section class="quote-area bg-item ptb-100">
-            <div class="container">
-                <div class="quote-item item-two">
-                    <div class="content">
-                        <span>Get a Quote</span>
-                        <h3>Online Class Registration</h3>
+                <div class="container">
+                    <div class="quote-item item-two">
+                        <div class="content">
+                            <span>Get a Quote</span>
+                            <h3>Online Class Registration</h3>
+                        </div>
+
+                        <form>
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Your Name">
+                            </div>
+
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Email Address">
+                            </div>
+
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Studying Class">
+                            </div>
+
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Type Your Requirements">
+                            </div>
+
+                            <button type="submit" class="default-btn">
+                                Submit Now
+                            </button>
+                        </form>
                     </div>
-
-                    <form>
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Your Name">
-                        </div>
-
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Email Address">
-                        </div>
-
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Studying Class">
-                        </div>
-
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Type Your Requirements">
-                        </div>
-
-                        <button type="submit" class="default-btn">
-                            Submit Now
-                        </button>
-                    </form>
                 </div>
-            </div>
-        </section> -->
+            </section> -->
     <!-- End Quote Area -->
 
     <!-- Start FAQ Area -->

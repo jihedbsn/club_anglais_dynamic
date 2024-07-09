@@ -10,7 +10,7 @@
                         <h2>Preschool 3 Program</h2>
                         <ul>
                             <li>
-                                <a href="index.html">Home</a>
+                                <a href="/">Home</a>
                             </li>
                             <li>PK3</li>
                         </ul>

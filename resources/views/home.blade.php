@@ -209,8 +209,8 @@
         </div>
 
         <!--          <div class="who-we-are-shape">
-                                                                                                                                                                                                                        <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
-                                                                                                                                                                                                                    </div> -->
+                                                                                                                                                                                                                            <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
+                                                                                                                                                                                                                        </div> -->
     </section>
     <!-- End Value Area -->
 
@@ -544,9 +544,9 @@
                                     Saturday afternoon
                                 </li>
                                 <!-- <li>
-                                                                                                                                                                                                                                                <i class='bx bxs-cart'></i>
-                                                                                                                                                                                                                                                4 weeks per session <br> 200 TND per session
-                                                                                                                                                                                                                                            </li> -->
+                                                                                                                                                                                                                                                    <i class='bx bxs-cart'></i>
+                                                                                                                                                                                                                                                    4 weeks per session <br> 200 TND per session
+                                                                                                                                                                                                                                                </li> -->
                             </ul>
                         </div>
                     </div>
@@ -591,9 +591,9 @@
                                     Saturday afternoon
                                 </li>
                                 <!-- <li>
-                                                                                                                                                                                                                                                <i class='bx bxs-cart'></i>
-                                                                                                                                                                                                                                                4 weeks per session <br> 200 TND per session
-                                                                                                                                                                                                                                            </li> -->
+                                                                                                                                                                                                                                                    <i class='bx bxs-cart'></i>
+                                                                                                                                                                                                                                                    4 weeks per session <br> 200 TND per session
+                                                                                                                                                                                                                                                </li> -->
                             </ul>
                         </div>
                     </div>
@@ -655,8 +655,8 @@
                                 <img src="assets/img/choose/choose-shape-2.png" alt="image">
                             </div>
                             <!--  <div class="shape-3">
-                                                                                                                                                                                                                                            <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                                                                                                                                                                                                                        </div> -->
+                                                                                                                                                                                                                                                <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                                                                                                                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -675,8 +675,8 @@
                                 <img src="assets/img/choose/choose-shape-2.png" alt="image">
                             </div> --}}
                             <!--  <div class="shape-3">
-                                                                                                                                                                                                                                            <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                                                                                                                                                                                                                        </div> -->
+                                                                                                                                                                                                                                                <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                                                                                                                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -703,7 +703,7 @@
     </section>
     <!-- End Choose Area -->
     <!-- Start Blog Area -->
-    <section class="blog-area pt-100 pb-70">
+    {{-- <section class="blog-area pt-100 pb-70">
         <div class="container">
             <div class="section-title">
                 <span>News and Blog</span>
@@ -808,6 +808,6 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- Add more sections as needed -->
 @endsection

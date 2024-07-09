@@ -9,7 +9,7 @@
                         <h2>Blog</h2>
                         <ul>
                             <li>
-                                <a href="index.html">Home</a>
+                                <a href="/">Home</a>
                             </li>
                             <li>Blog</li>
                         </ul>

@@ -10,7 +10,7 @@
                         <h2>Our Value</h2>
                         <ul>
                             <li>
-                                <a href="index.html">Home</a>
+                                <a href="/">Home</a>
                             </li>
                             <li>Our Value</li>
                         </ul>
@@ -32,12 +32,12 @@
 
                 <div class="value-item">
                     <!-- <div class="value-content">
-                            <span>What we aim to acheive </span>
-                            <h3>Our Core Values ? </h3>
-                            <p>
-                                The ClubAnglais approach is based on research and best practice in immersion education. In English immersion programs children do not merely learn about the English language in the classroom.
-                            </p>
-                        </div> -->
+                                <span>What we aim to acheive </span>
+                                <h3>Our Core Values ? </h3>
+                                <p>
+                                    The ClubAnglais approach is based on research and best practice in immersion education. In English immersion programs children do not merely learn about the English language in the classroom.
+                                </p>
+                            </div> -->
 
                     <div class="value-inner-content">
                         <div class="number">
@@ -99,8 +99,8 @@
                 </div>
 
                 <!-- <div class="who-we-are-btn">
-                        <a href="#" class="default-btn">Read More</a>
-                    </div> -->
+                            <a href="#" class="default-btn">Read More</a>
+                        </div> -->
 
 
             </div>

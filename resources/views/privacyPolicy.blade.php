@@ -10,7 +10,7 @@
                         <h2>Privacy Policy</h2>
                         <ul>
                             <li>
-                                <a href="index.html">Home</a>
+                                <a href="/">Home</a>
                             </li>
                             <li>Privacy Policy</li>
                         </ul>
