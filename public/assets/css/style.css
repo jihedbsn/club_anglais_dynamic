@@ -7604,12 +7604,22 @@ Buy Now Btn
     /*background-color: rgba(0, 0, 0, 0.5);*/
 }
 
+/* .slide-1 {
+    background-image: url("../../assets/img/slider/slider.jpeg");
+} */
+
 .slide-1 {
-    background-image: url("../../assets/img/slider/slider.jpg");
+    background-image: url("../../assets/img/slider/slider.jpeg");
+    background-size: cover;
+    background-position: top;
+    position: relative; /* Ensure the overlay positions correctly */
 }
 
 .slide-2 {
-    background-image: url(bg-2.jpg);
+    background-image: url("../../assets/img/slider/slider2.jpeg");
+    background-size: cover;
+    background-position: bottom;
+    position: relative; /* Ensure the overlay positions correctly */
 }
 
 .slide-3 {
@@ -7623,25 +7633,27 @@ Buy Now Btn
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    top: 80%;
+    top: 60%;
     transform: translateY(-80%);
-    color: #fff;
+    /* color: #fff; */
     padding: 0 20%;
 }
 
-.slide-content h1 {
+/* .slide-content h1 {
     font-size: 45px;
-}
+} */
 
 .slide-content img {
     margin-top: 100px;
 }
-/*
-.slide-content .textual-content {
-     margin-left: 50%;
 
-    transform: translate(100px, 150px);
-}*/
+.slide-content .textual-content {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 16px;
+    /* margin-left: 50%;
+
+    transform: translate(100px, 150px); */
+}
 
 .slide-content .textual-content p {
     color: #fff;

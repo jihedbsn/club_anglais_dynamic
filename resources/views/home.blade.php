@@ -5,26 +5,26 @@
         <div class="owl-carousel owl-theme">
             <div class="slide slide-1">
                 <div class="slide-content">
-                    {{-- <img src="{{ asset('assets/img/welcome-text.png') }}" alt="image"> --}}
-                    {{-- <div class="white-bg">
-                        <div class="logo-container">
-                            <h1 class="ca-logo"><span class="ca-logo-club">Club</span><span
-                                    class="ca-logo-anglais">Anglais</span>
-                            </h1>
-                            <div class="catchphrase">
-                                <span>Work Hard</span>
-                                <span>Play Hard</span>
-                                <span>Learn English</span>
-                                <span>Have Fun</span>
-                            </div>
-                        </div>
-                    </div> --}}
+
 
                     <div class="textual-content">
                         <p>We teach English through engaging activities such as sports, games, music, art, and theatre.</p>
                         <div class="banner-btn">
-                            <a href="#" class="default-btn">Learn More</a>
-                            <a href="#" class="optional-btn">Find Out More</a>
+                            <a href="contact" class="default-btn">Contact</a>
+                            {{-- <a href="#" class="optional-btn">Find Out More</a> --}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slide slide-2">
+                <div class="slide-content">
+
+
+                    <div class="textual-content">
+                        <p>We teach English through engaging activities such as sports, games, music, art, and theatre.</p>
+                        <div class="banner-btn">
+                            <a href="contact" class="default-btn">Contact</a>
+                            {{-- <a href="#" class="optional-btn">Find Out More</a> --}}
                         </div>
                     </div>
                 </div>
@@ -209,8 +209,8 @@
         </div>
 
         <!--          <div class="who-we-are-shape">
-                                                                                                                                                                                                                                            <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
-                                                                                                                                                                                                                                        </div> -->
+                                                                                                                                                                                                                                                                                                                <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
+                                                                                                                                                                                                                                                                                                            </div> -->
     </section>
     <!-- End Value Area -->
 
@@ -307,7 +307,7 @@
                     <div class="single-class">
                         <div class="class-image">
                             <a href="pk3">
-                                <img src="assets/img/class/class-3.jpg" alt="image">
+                                <img src="assets/img/pk/pk3.png" alt="image">
                             </a>
                         </div>
 
@@ -347,7 +347,7 @@
                     <div class="single-class">
                         <div class="class-image">
                             <a href="pk4">
-                                <img src="assets/img/class/class-1.jpg" alt="image">
+                                <img src="assets/img/pk/pk4.jpg" alt="image">
                             </a>
                         </div>
 
@@ -434,77 +434,7 @@
                     </div>
                 </div>
 
-                <div class="testimonials-item">
-                    <div class="testimonials-item-box">
-                        <div class="icon">
-                            <i class='bx bxs-quote-left'></i>
-                        </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                            maecenas accumsan lacus vel facilisis.</p>
-                        <div class="info-box">
-                            <h3>Priestly Herbart</h3>
-                            <span>Math Teacher</span>
-                        </div>
-                    </div>
-                    <div class="testimonials-image">
-                        <img src="assets/img/testimonials/testimonials-3.png" alt="image">
-                    </div>
-                </div>
 
-                <div class="testimonials-item">
-                    <div class="testimonials-item-box">
-                        <div class="icon">
-                            <i class='bx bxs-quote-left'></i>
-                        </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                            maecenas accumsan lacus vel facilisis.</p>
-                        <div class="info-box">
-                            <h3>Glims Bond</h3>
-                            <span>Music Teacher</span>
-                        </div>
-                    </div>
-                    <div class="testimonials-image">
-                        <img src="assets/img/testimonials/testimonials-1.png" alt="image">
-                    </div>
-                </div>
-
-                <div class="testimonials-item">
-                    <div class="testimonials-item-box">
-                        <div class="icon">
-                            <i class='bx bxs-quote-left'></i>
-                        </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                            maecenas accumsan lacus vel facilisis.</p>
-                        <div class="info-box">
-                            <h3>Sherlock Bin</h3>
-                            <span>Art Teacher</span>
-                        </div>
-                    </div>
-                    <div class="testimonials-image">
-                        <img src="assets/img/testimonials/testimonials-2.png" alt="image">
-                    </div>
-                </div>
-
-                <div class="testimonials-item">
-                    <div class="testimonials-item-box">
-                        <div class="icon">
-                            <i class='bx bxs-quote-left'></i>
-                        </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                            maecenas accumsan lacus vel facilisis.</p>
-                        <div class="info-box">
-                            <h3>Priestly Herbart</h3>
-                            <span>Math Teacher</span>
-                        </div>
-                    </div>
-                    <div class="testimonials-image">
-                        <img src="assets/img/testimonials/testimonials-3.png" alt="image">
-                    </div>
-                </div>
             </div>
         </div>
     </section>
@@ -525,7 +455,9 @@
                 <div class="row align-items-center">
                     <div class="col-md-4">
                         <div class="event-image">
-                            <img src="assets/img/clubanglais/preschool-club.png" alt="image">
+                            <img src="assets/img/preschoolclub.png" alt="image">
+
+                            {{-- <img src="assets/img/clubanglais/preschool-club.png" alt="image"> --}}
                         </div>
                     </div>
 
@@ -549,9 +481,9 @@
                                     Saturday afternoon
                                 </li>
                                 <!-- <li>
-                                                                                                                                                                                                                                                                    <i class='bx bxs-cart'></i>
-                                                                                                                                                                                                                                                                    4 weeks per session <br> 200 TND per session
-                                                                                                                                                                                                                                                                </li> -->
+                                                                                                                                                                                                                                                                                                                                        <i class='bx bxs-cart'></i>
+                                                                                                                                                                                                                                                                                                                                        4 weeks per session <br> 200 TND per session
+                                                                                                                                                                                                                                                                                                                                    </li> -->
                             </ul>
                         </div>
                     </div>
@@ -572,7 +504,9 @@
                 <div class="row align-items-center">
                     <div class="col-md-4">
                         <div class="event-image">
-                            <img src="assets/img/sections3-image.png" alt="image">
+                            <img src="assets/img/adventureclub.png" alt="image">
+
+                            {{-- <img src="assets/img/sections3-image.png" alt="image"> --}}
                         </div>
                     </div>
 
@@ -597,9 +531,9 @@
                                     Saturday afternoon
                                 </li>
                                 <!-- <li>
-                                                                                                                                                                                                                                                                    <i class='bx bxs-cart'></i>
-                                                                                                                                                                                                                                                                    4 weeks per session <br> 200 TND per session
-                                                                                                                                                                                                                                                                </li> -->
+                                                                                                                                                                                                                                                                                                                                        <i class='bx bxs-cart'></i>
+                                                                                                                                                                                                                                                                                                                                        4 weeks per session <br> 200 TND per session
+                                                                                                                                                                                                                                                                                                                                    </li> -->
                             </ul>
                         </div>
                     </div>
@@ -623,7 +557,7 @@
         <div class="container">
             <div class="section-title">
                 <span>Camps</span>
-                <h2>What Parents Say About Us</h2>
+                <h2>Discover our camps</h2>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -651,7 +585,31 @@
 
                 <div class="col-lg-6">
                     <div class="choose-image">
-                        <img src="assets/img/clubanglais/preschool-camp.png" alt="image">
+                        {{-- <img src="assets/img/preschool-club.png" alt="image"> --}}
+
+                        {{-- <img src="assets/img/clubanglais/preschool-camp.png" alt="image"> --}}
+
+                        <div class="choose-image-shape">
+                            {{-- <div class="shape-1">
+                                <img src="assets/img/choose/choose-shape-1.png" alt="image">
+                            </div> --}}
+                            {{-- <div class="shape-2">
+                                <img src="assets/img/choose/choose-shape-2.png" alt="image">
+                            </div> --}}
+                            <!--  <div class="shape-3">
+                                                                                                                                                                                                                                                                                                                                    <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                                                                                                                                                                                                                </div> -->
+                        </div>
+                        <img src="assets/img/preschool-club.png" alt="image">
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="choose-image">
+                        <img src="assets/img/summercamp.png" alt="image">
 
                         <div class="choose-image-shape">
                             {{-- <div class="shape-1">
@@ -661,28 +619,8 @@
                                 <img src="assets/img/choose/choose-shape-2.png" alt="image">
                             </div>
                             <!--  <div class="shape-3">
-                                                                                                                                                                                                                                                                <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                                                                                                                                                                                                                                            </div> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="choose-image">
-                        <img src="assets/img/section4-image.png" alt="image">
-
-                        <div class="choose-image-shape">
-                            <div class="shape-1">
-                                <img src="assets/img/choose/choose-shape-1.png" alt="image">
-                            </div>
-                            {{-- <div class="shape-2">
-                                <img src="assets/img/choose/choose-shape-2.png" alt="image">
-                            </div> --}}
-                            <!--  <div class="shape-3">
-                                                                                                                                                                                                                                                                <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                                                                                                                                                                                                                                            </div> -->
+                                                                                                                                                                                                                                                                                                                                    <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                                                                                                                                                                                                                </div> -->
                         </div>
                     </div>
                 </div>
@@ -698,7 +636,7 @@
                         <p>This all-day immersion approach is an excellent way for your child to make rapid progress in
                             learning English.</p>
                         <div class="choose-btn">
-                            <a href="#" class="default-btn">Learn More</a>
+                            <a href="/summer-camp" class="default-btn">Learn More</a>
                         </div>
                     </div>
                 </div>
