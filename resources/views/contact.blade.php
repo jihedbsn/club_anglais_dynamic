@@ -143,7 +143,7 @@
             const subjectGroup = document.getElementById('subject-group');
             const subjectsInput = document.getElementById('subjects');
             const urlParams = new URLSearchParams(window.location.search);
-            const contactType = urlParams.get('ContactType');
+            const contactType = urlParams.get('contact_type');
 
             if (contactType) {
                 programSelect.value = contactType;

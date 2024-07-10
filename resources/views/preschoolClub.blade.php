@@ -50,7 +50,7 @@
                         </div>
                     </div>
                     <div class="centred-button">
-                        <a href="/contact" class="default-btn">Subscribe</a>
+                        <a href="/contact?contact_type=Preschool club" class="default-btn">Subscribe</a>
                     </div>
                 </div>
 

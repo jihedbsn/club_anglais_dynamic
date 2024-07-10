@@ -214,7 +214,7 @@
             </div>
             <div class="row">
                 <div class="centred-button">
-                    <a href="/contact" class="default-btn">Subscribe</a>
+                    <a href="/contact?contact_type=PK3" class="default-btn">Subscribe</a>
                 </div>
             </div>
         </div>
