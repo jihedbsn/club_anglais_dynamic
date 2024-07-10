@@ -2,7 +2,7 @@
 
 @section('content')
     <!-- Start Page Banner -->
-    <div class="page-banner-area item-bg4">
+    <div class="page-banner-area item-mission">
         <div class="d-table">
             <div class="d-table-cell">
                 <div class="container">
@@ -34,8 +34,8 @@
                     <div class="value-content">
                         <h3>Our Mission </h3>
                         <!-- <p>
-                                        The ClubAnglais approach is based on research and best practice in immersion education. In English immersion programs children do not merely learn about the English language in the classroom.
-                                    </p> -->
+                                            The ClubAnglais approach is based on research and best practice in immersion education. In English immersion programs children do not merely learn about the English language in the classroom.
+                                        </p> -->
                     </div>
 
 
@@ -44,8 +44,8 @@
                 <br>
                 <br>
                 <!-- <div class="who-we-are-btn">
-                                <a href="#" class="default-btn">Read More</a>
-                            </div> -->
+                                    <a href="#" class="default-btn">Read More</a>
+                                </div> -->
 
                 <div class="class-desc-content">
                     <p>This starts with excellence in teaching English to children in North Africa, ages eighteen months

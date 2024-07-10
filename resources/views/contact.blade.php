@@ -28,7 +28,8 @@
                     <div class="contact-form">
                         <h3>Ready to Get Started?</h3>
 
-                        <form id="contactForm">
+                        <form id="contactForm" action="{{ url('inquiries') }}" method="POST">
+                            @csrf
                             <div class="row">
                                 <div class="col-lg-12 col-md-6">
                                     <div class="form-group">
@@ -57,7 +58,27 @@
 
                                 <div class="col-lg-12 col-md-12">
                                     <div class="form-group">
-                                        <input type="text" name="subjects" id="subjects" class="form-control" required
+                                        <label for="program">Program</label>
+                                        <select name="program" id="program" class="form-control" required
+                                            data-error="Please select a program">
+                                            <option value="">Select a program</option>
+                                            <option value="PK1">PK1</option>
+                                            <option value="PK2">PK2</option>
+                                            <option value="PK3">PK3</option>
+                                            <option value="PK4">PK4</option>
+                                            <option value="Preschool club">Preschool club</option>
+                                            <option value="Adventure club">Adventure club</option>
+                                            <option value="Power camp">Power camp</option>
+                                            <option value="Preschool camp">Preschool camp</option>
+                                            <option value="Other">Other</option>
+                                        </select>
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-12 col-md-12" id="subject-group" style="display:none;">
+                                    <div class="form-group">
+                                        <input type="text" name="subjects" id="subjects" class="form-control"
                                             data-error="Please enter your subjects" placeholder="Subjects">
                                         <div class="help-block with-errors"></div>
                                     </div>
@@ -115,4 +136,35 @@
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3189.189435384328!2d10.320849588356397!3d36.89057686899757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzYuODkwNTc2ODY5OTc1NywgMTAuMzIwODQ5NTg4MzU2Mzk3!5e0!3m2!1sen!2s!4v1688273413312!5m2!1sen!2s"></iframe>
     </div>
     <!-- End Map -->
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const programSelect = document.getElementById('program');
+            const subjectGroup = document.getElementById('subject-group');
+            const subjectsInput = document.getElementById('subjects');
+            const urlParams = new URLSearchParams(window.location.search);
+            const contactType = urlParams.get('ContactType');
+
+            if (contactType) {
+                programSelect.value = contactType;
+                if (contactType === 'Other') {
+                    subjectGroup.style.display = 'block';
+                    subjectsInput.required = true;
+                } else {
+                    subjectGroup.style.display = 'none';
+                    subjectsInput.required = false;
+                }
+            }
+
+            programSelect.addEventListener('change', function() {
+                if (this.value === 'Other') {
+                    subjectGroup.style.display = 'block';
+                    subjectsInput.required = true;
+                } else {
+                    subjectGroup.style.display = 'none';
+                    subjectsInput.required = false;
+                }
+            });
+        });
+    </script>
 @endsection

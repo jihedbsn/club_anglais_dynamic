@@ -3,60 +3,78 @@
 /*==============================================================*/
 (function ($) {
     "use strict"; // Start of use strict
-    $("#contactForm").validator().on("submit", function (event) {
-        if (event.isDefaultPrevented()) {
-            // handle the invalid form...
-            formError();
-            submitMSG(false, "Did you fill in the form properly?");
-        } else {
-            // everything looks good!
-            event.preventDefault();
-            submitForm();
-        }
-    });
+    $("#contactForm")
+        .validator()
+        .on("submit", function (event) {
+            if (event.isDefaultPrevented()) {
+                // handle the invalid form...
+                formError();
+                submitMSG(false, "Did you fill in the form properly?");
+            } else {
+                // everything looks good!
+                event.preventDefault();
+                submitForm();
+            }
+        });
 
-
-    function submitForm(){
+    function submitForm() {
         // Initiate Variables With Form Content
         var name = $("#name").val();
         var email = $("#email").val();
-        var msg_subject = $("#msg_subject").val();
         var phone_number = $("#phone_number").val();
+        var program = $("#program").val();
+        var subjects = $("#subjects").val();
         var message = $("#message").val();
-
 
         $.ajax({
             type: "POST",
-            url: "assets/php/form-process.php",
-            data: "name=" + name + "&email=" + email + "&msg_subject=" + msg_subject + "&phone_number=" + phone_number + "&message=" + message,
-            success : function(text){
-                if (text == "success"){
+            url: "/inquiries",
+            data: {
+                _token: $('meta[name="csrf-token"]').attr("content"),
+                name: name,
+                email: email,
+                phone_number: phone_number,
+                program: program,
+                subjects: subjects,
+                message: message,
+            },
+            success: function (response) {
+                console.log("response", response);
+                if (response.success) {
                     formSuccess();
                 } else {
                     formError();
-                    submitMSG(false,text);
+                    submitMSG(false, response.error);
                 }
-            }
+            },
+            error: function (response) {
+                formError();
+                submitMSG(false, "An error occurred. Please try again.");
+            },
         });
     }
 
-    function formSuccess(){
+    function formSuccess() {
         $("#contactForm")[0].reset();
-        submitMSG(true, "Message Submitted!")
+        submitMSG(true, "Message Submitted!");
     }
 
-    function formError(){
-        $("#contactForm").removeClass().addClass('shake animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
-            $(this).removeClass();
-        });
+    function formError() {
+        $("#contactForm")
+            .removeClass()
+            .addClass("shake animated")
+            .one(
+                "webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend",
+                function () {
+                    $(this).removeClass();
+                }
+            );
     }
 
-    function submitMSG(valid, msg){
-        if(valid){
-            var msgClasses = "h4 tada animated text-success";
-        } else {
-            var msgClasses = "h4 text-danger";
-        }
+    function submitMSG(valid, msg) {
+        var msgClasses = valid
+            ? "h4 tada animated text-success"
+            : "h4 text-danger";
         $("#msgSubmit").removeClass().addClass(msgClasses).text(msg);
     }
-}(jQuery)); // End of use strict
+})(jQuery); // End of use strict

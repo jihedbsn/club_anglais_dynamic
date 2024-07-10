@@ -4318,7 +4318,7 @@ Page Banner CSS
     right: 0;
     top: 0;
     z-index: -1;
-    opacity: 0.6;
+    opacity: 0.45;
 }
 
 .page-banner-area.item-bg1 {
@@ -4348,7 +4348,10 @@ Page Banner CSS
 }
 
 .page-banner-area.item-bg4 {
-    background-image: url(../img/page-banner/page-banner-5.jpg);
+    background-image: url(../img/vision.jpg);
+}
+.page-banner-area.item-mission {
+    background-image: url(../img/mission.jpg);
 }
 .page-banner-area.item-pk1 {
     background-image: url(../img/pk/pk1cover.jpeg);

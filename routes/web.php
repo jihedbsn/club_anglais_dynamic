@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\InquiryController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -86,6 +87,9 @@ Route::get('/preschool-camp', function () {
 Route::get('/terms-of-service', function () {
     return view('termsOfService');
 });
+
+Route::post('inquiries', [InquiryController::class, 'store'])->name('inquiries.store');
+
 
 
 Route::group(['prefix' => 'admin'], function () {

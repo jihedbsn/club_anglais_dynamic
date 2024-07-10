@@ -18,6 +18,8 @@
     <link rel="stylesheet" href="{{ asset('assets/css/dark.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}">
     <link rel="icon" href="{{ asset('assets/img/favicon.png') }}" type="image/png">
+    <meta name="csrf-token" content="{{ csrf_token() }}">
+
 
     <title>ClubAnglais - Work Hard - Play Hard - Learn English - Have Fun </title>
 </head>
@@ -139,9 +141,7 @@
                                     Adventure club
                                 </a>
                             </li>
-                            <li>
-                                <a href="preschool-club">Club Activities </a>
-                            </li>
+
                             <li>
                                 <a href="{{ url('/summer-camp') }}">
                                     Power camp

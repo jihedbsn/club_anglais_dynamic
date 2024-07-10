@@ -33,40 +33,36 @@
                             rippling outward to impact entire communities and beyond.</h3>
 
                         <!--  <ul class="who-we-are-list">
-                                            <li>
-                                                <span>1</span>
-                                                Homelike Environment
-                                            </li>
-                                            <li>
-                                                <span>2</span>
-                                                Quality Educators
-                                            </li>
-                                            <li>
-                                                <span>3</span>
-                                                Safety and Security
-                                            </li>
-                                            <li>
-                                                <span>4</span>
-                                                Play to Learn
-                                            </li>
-                                        </ul> -->
+                                                <li>
+                                                    <span>1</span>
+                                                    Homelike Environment
+                                                </li>
+                                                <li>
+                                                    <span>2</span>
+                                                    Quality Educators
+                                                </li>
+                                                <li>
+                                                    <span>3</span>
+                                                    Safety and Security
+                                                </li>
+                                                <li>
+                                                    <span>4</span>
+                                                    Play to Learn
+                                                </li>
+                                            </ul> -->
 
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="choose-image">
-                        <img src="assets/img/choose/choose-1.png" alt="image">
+                        <img src="assets/img/section2-image.png" alt="image">
 
                         <div class="choose-image-shape">
-                            <!-- <div class="shape-1">
-                                                <img src="assets/img/choose/choose-shape-1.png" alt="image">
-                                            </div> -->
+
                             <div class="shape-2">
                                 <img src="assets/img/choose/choose-shape-2.png" alt="image">
                             </div>
-                            <!-- <div class="shape-3">
-                                                <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                            </div> -->
+
                         </div>
                     </div>
                 </div>
