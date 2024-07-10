@@ -7674,7 +7674,8 @@ Buy Now Btn
 
 .slide-content .textual-content {
     background-color: rgba(0, 0, 0, 0.3);
-    border-radius: 16px;
+    border-radius: 10px;
+    padding: 20px;
     /* margin-left: 50%;
 
     transform: translate(100px, 150px); */
@@ -7718,25 +7719,6 @@ Buy Now Btn
 .main-slider .owl-nav button {
     border: none !important;
     outline: none !important;
-}
-
-.main-slider .owl-prev,
-.owl-next {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    color: #fff !important;
-    font-size: 65px !important;
-    font-weight: bolder !important;
-    background: none !important;
-}
-
-.main-slider .owl-prev {
-    left: 1%;
-}
-
-.main-slider .owl-next {
-    right: 1%;
 }
 
 /*# sourceMappingURL=style.css.map */
@@ -7787,12 +7769,17 @@ Buy Now Btn
 }
 
 .white-bg {
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.35);
     width: fit-content;
-    padding: 5px;
+    padding: 10px;
     border-radius: 16px;
 }
 
 .big-logo-size {
     font-size: 2.75rem;
 }
+
+/* button.owl-prev,
+button.owl-next {
+    display: none;
+} */
