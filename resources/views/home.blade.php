@@ -209,8 +209,8 @@
         </div>
 
         <!--          <div class="who-we-are-shape">
-                                                                                                                                                                                                                                                                                                                <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
-                                                                                                                                                                                                                                                                                                            </div> -->
+                                                                                                                                                                                                                                                                                                                    <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
+                                                                                                                                                                                                                                                                                                                </div> -->
     </section>
     <!-- End Value Area -->
 
@@ -481,9 +481,9 @@
                                     Saturday afternoon
                                 </li>
                                 <!-- <li>
-                                                                                                                                                                                                                                                                                                                                        <i class='bx bxs-cart'></i>
-                                                                                                                                                                                                                                                                                                                                        4 weeks per session <br> 200 TND per session
-                                                                                                                                                                                                                                                                                                                                    </li> -->
+                                                                                                                                                                                                                                                                                                                                            <i class='bx bxs-cart'></i>
+                                                                                                                                                                                                                                                                                                                                            4 weeks per session <br> 200 TND per session
+                                                                                                                                                                                                                                                                                                                                        </li> -->
                             </ul>
                         </div>
                     </div>
@@ -531,9 +531,9 @@
                                     Saturday afternoon
                                 </li>
                                 <!-- <li>
-                                                                                                                                                                                                                                                                                                                                        <i class='bx bxs-cart'></i>
-                                                                                                                                                                                                                                                                                                                                        4 weeks per session <br> 200 TND per session
-                                                                                                                                                                                                                                                                                                                                    </li> -->
+                                                                                                                                                                                                                                                                                                                                            <i class='bx bxs-cart'></i>
+                                                                                                                                                                                                                                                                                                                                            4 weeks per session <br> 200 TND per session
+                                                                                                                                                                                                                                                                                                                                        </li> -->
                             </ul>
                         </div>
                     </div>
@@ -578,7 +578,7 @@
 
                         </p>
                         <div class="choose-btn">
-                            <a href="#" class="default-btn">Learn More</a>
+                            <a href="/preschool-camp" class="default-btn">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -597,8 +597,8 @@
                                 <img src="assets/img/choose/choose-shape-2.png" alt="image">
                             </div> --}}
                             <!--  <div class="shape-3">
-                                                                                                                                                                                                                                                                                                                                    <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                                                                                                                                                                                                                                                                                                                </div> -->
+                                                                                                                                                                                                                                                                                                                                        <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                                                                                                                                                                                                                    </div> -->
                         </div>
                         <img src="assets/img/preschool-club.png" alt="image">
 
@@ -619,8 +619,8 @@
                                 <img src="assets/img/choose/choose-shape-2.png" alt="image">
                             </div>
                             <!--  <div class="shape-3">
-                                                                                                                                                                                                                                                                                                                                    <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                                                                                                                                                                                                                                                                                                                </div> -->
+                                                                                                                                                                                                                                                                                                                                        <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                                                                                                                                                                                                                    </div> -->
                         </div>
                     </div>
                 </div>
