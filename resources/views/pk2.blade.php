@@ -64,15 +64,15 @@
                                             <div class="class-desc-content">
                                                 <br>
 
-                                                <p>In PK2 we support and encourage the development of the children in the
-                                                    areas of self-regulation, positive relationships and group
-                                                    participation.
-                                                    At the beginning of the year we are focusing on creating a welcoming
-                                                    atmosphere in the classroom where the students can all feel safe.
-                                                    From the beginning we make an effort to listen to each child and help
-                                                    them learn how to communicate their needs and desires in a
-                                                    developmentally appropriate way. Our class is a community where we learn
-                                                    how to work together and care for one another.
+                                                <p>In PK2, children are beginning to recognize their own emotions but may
+                                                    lack the words to fully express them. We emphasize creating a safe and
+                                                    nurturing environment where each child feels valued and supported. Our
+                                                    goal is to assist them in navigating various emotions like frustration,
+                                                    anger, fear, and excitement. While they may find sharing and taking
+                                                    turns challenging, they are starting to learn these fundamental social
+                                                    interactions. With gentle guidance and engaging activities, we help them
+                                                    develop patience and impulse control, fostering their growth in managing
+                                                    emotions and building social skills.
                                                 </p>
                                             </div>
                                         </div>
@@ -81,20 +81,16 @@
                                             <div class="class-desc-content">
                                                 <br>
 
-                                                <p>In this area we actively work on supporting the development of the
-                                                    children’s various physical skills, such as traveling (how they get
-                                                    around), balancing, gross-motor and fine-motor.
-                                                    Both in the classroom and outside we incorporate a lot of movement
-                                                    throughout the day which strengthens and challenges the children. We
-                                                    will not push someone to try something they are not ready to do, but
-                                                    provide gentle and supportive opportunities.
-                                                    We incorporate balls and hoops, tunnels, climbing walls, dancing and
-                                                    running throughout the day.
-                                                    For fine-motor development at this age we focus on strengthening the
-                                                    hand muscles through many playful activities, such as using play-do and
-                                                    squeezing or pinching things.
-                                                    Though we will provide many different drawing and writing tools, they
-                                                    are only for exploratory purposes.
+                                                <p>In PK2, children’s motor skills are becoming more refined as they engage
+                                                    in various balancing exercises. They can walk, run, and even race with
+                                                    greater stability and improved coordination. Their climbing abilities
+                                                    improve, allowing them to tackle playground equipment with increasing
+                                                    ease. Fine motor skills advance as children use chalk, crayons, or
+                                                    markers with a stronger grasp, allowing for more purposeful scribbling
+                                                    and early attempts at drawing shapes or lines. They also enjoy
+                                                    activities like playdoh, stacking blocks, manipulating large puzzle
+                                                    pieces, and using a spoon to feed themselves, showing improved hand-eye
+                                                    coordination and dexterity.
                                                 </p>
                                             </div>
                                         </div>
@@ -103,20 +99,16 @@
                                             <div class="class-desc-content">
                                                 <br>
 
-                                                <p>This is a vital area in the development of a child as well as for
-                                                    language learning, therefore we place a strong emphasis on pre-literacy.
-                                                    Every day there are opportunities for the children to look at books and
-                                                    also for group read-aloud times.
-                                                    We will focus on interactive books that engage the children. We will
-                                                    also use many songs and chants to begin introducing the concept of rhyme
-                                                    and alliteration.
-                                                    We introduce the alphabet in a very basic way through song and play.
-                                                    Only the older children will work on recognizing their name and by the
-                                                    end of the year be able to name some of the letters in their name.
-                                                    As mentioned above, we provide a variety of writing tools without
-                                                    specific instruction so that the children can naturally explore writing.
-                                                    As we observe developmental readiness, the children will begin “writing”
-                                                    in a journal to introduce the concept of written communication.
+                                                <p>In PK2, our focus is on expanding vocabulary and understanding basic
+                                                    literacy concepts. Students are introduced to the alphabet through song
+                                                    and play. They interact with books by turning pages and identifying
+                                                    familiar pictures, letters, or sounds. Activities include reading books
+                                                    aloud with increasing complexity, engaging in simple storytelling with
+                                                    picture prompts, recognizing their name, tracing letters, and playing
+                                                    simple letter-matching games. Interactive songs and rhymes are also
+                                                    incorporated to enhance language development and phonemic awareness.
+                                                    Children have the opportunity to naturally explore pre-writing by using
+                                                    a variety of writing tools such as crayons, markers, and paint.
                                                 </p>
                                             </div>
                                         </div>
@@ -124,24 +116,22 @@
                                         <div class="tabs_item">
                                             <div class="class-desc-content">
                                                 <br>
-                                                <p>This area of development and learning encompasses number concepts,
-                                                    spatial relationships, shapes, measurement and patterns.
-                                                    Counting is so much fun that it is easy to incorporate from the very
-                                                    beginning of the year without high expectations. By the end of the year
-                                                    they should be able to count up to 10 successfully. As the year
-                                                    progresses we begin slowly showing the children how to count individual
-                                                    items up to 5 as well as introducing the individual numerals.
-                                                    Spatial relationships and shapes are introduced from the beginning of
-                                                    the year growing to a place where the children should be able to
-                                                    recognize a few basic shapes and also be able to follow basic
-                                                    instructions related to position (in, on, under, up, down) and proximity
-                                                    (beside, between, next to)
-                                                    With measurement we will work on comparing two objects at the beginning
-                                                    of the year and growing to ordering a small set of objects according to
-                                                    size or length.
-                                                    Finally, at the beginning of the year we will help the children become
-                                                    aware of simple patterns in daily life and then growing to making very
-                                                    simple repeating patterns with beads or blocks.</p>
+                                                <p>In PK2, mathematical activities focus on counting and sorting skills as
+                                                    well as shape recognition. Teachers incorporate counting games, songs,
+                                                    and group activities to help children practice counting objects and
+                                                    understand the concepts of "more" and "less" by comparison. Measurement
+                                                    is introduced as children practice comparing two objects by size and
+                                                    length. They gradually advance to ordering a small set of objects.
+                                                    Students also practice categorizing objects by attributes such as color,
+                                                    shape, or size. They will also become aware of simple patterns in their
+                                                    daily lives and progress to creating very basic repeating patterns using
+                                                    beads or blocks. As the year progresses, students should be able to
+                                                    count to 10 orally, count up to 5 objects successfully, with proper one
+                                                    to one correspondence, and even recognize a few numerals. Additionally,
+                                                    their understanding of ordinal numbers, such as "first" and "second," is
+                                                    reinforced through daily routines and simple activities such as lining
+                                                    up toys or taking turns.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>

@@ -66,22 +66,16 @@
                                             <div class="class-desc-content">
                                                 <br>
 
-                                                <p>In PK3 we support and encourage the development of the children in the
-                                                    areas of self-regulation, positive relationships and group
-                                                    participation. At the beginning of the year we seek to create a
-                                                    welcoming environment for every child. In order to create a safe and fun
-                                                    place for everyone we clearly communicate the classroom routines and
-                                                    expectations and help the children grow in their ability to manage these
-                                                    as the year progresses.
-                                                    In time, we help each child to take on more and more responsibility for
-                                                    their own well-being and to grow in their independence. This fosters
-                                                    self-confidence while maintaining an attitude of looking out for the
-                                                    well-being of others.
-                                                    Throughout the year, we encourage children to participate in activities
-                                                    with others, playing together and also accomplishing tasks in groups of
-                                                    two or more. When problems arise we are available to help the students
-                                                    by offering suggestions but eventually encouraging them to grow in their
-                                                    ability to work out social problems alone.
+                                                <p>In PK3, our focus is on nurturing children's self-regulation, fostering
+                                                    positive relationships, and encouraging active participation in group
+                                                    activities. By promoting positive interactions and providing consistent
+                                                    emotional support, we lay a strong foundation for their social and
+                                                    emotional development. We empower children to tackle social challenges
+                                                    independently by developing their problem-solving skills and building
+                                                    their self-confidence through responsibilities related to their
+                                                    well-being and classroom role. Clearly defining classroom routines and
+                                                    expectations helps them manage these elements effectively as the year
+                                                    progresses.
                                                 </p>
                                             </div>
                                         </div>
@@ -90,23 +84,17 @@
                                             <div class="class-desc-content">
                                                 <br>
 
-                                                <p>In this area we actively work on supporting the development of the
-                                                    children’s various physical skills, such as traveling (how they get
-                                                    around), balancing, gross-motor and fine-motor.
-                                                    Both in the classroom and outside we incorporate a lot of movement
-                                                    throughout the day which strengthens and challenges the children. We
-                                                    will not push someone to try something they are not ready to do, but
-                                                    provide gentle and supportive opportunities. We incorporate balls and
-                                                    hoops, tunnels, climbing walls, dancing and running throughout the day.
-                                                    For the fine-motor development we continue to incorporate hand
-                                                    strengthening activities to prepare the children to successfully hold
-                                                    writing tools. We use a variety of pre-writing activities and
-                                                    pre-cutting activities slowly helping them in developmentally
-                                                    appropriate ways to hold scissors and writing tools. By the end of the
-                                                    year students should be able to hold drawing and writing tools by using
-                                                    a three-point grip even though they may hold them too close to one end.
-                                                    They will also have progressed in their scissor skills, being able to
-                                                    cut along a straight line with slight deviation.
+                                                <p>In PK3, children’s gross and fine motor skills advance significantly.
+                                                    They practice jumping with both feet off the ground, throwing and
+                                                    catching a ball with more accuracy, and balancing on one foot for short
+                                                    periods. Their fine motor skills improve through hand strengthening
+                                                    activities such as manipulating small objects or puzzle pieces, turning
+                                                    pages in a book, and using safety scissors to cut along a line. Children
+                                                    handle crayons or markers with greater precision, make drawings of
+                                                    simple shapes, attempt to color within the lines, and to trace the
+                                                    letters of the alphabet. They also show increased ability to dress
+                                                    themselves and engage in more complex play activities that require
+                                                    coordination.
                                                 </p>
                                             </div>
                                         </div>
@@ -115,31 +103,16 @@
                                             <div class="class-desc-content">
                                                 <br>
 
-                                                <p>This is a vital area in the development of a child as well as for
-                                                    language learning, therefore we place a strong emphasis on pre-literacy.
-                                                    Every day there are opportunities for the children to look at books and
-                                                    also for group read-aloud times. By the end of the year children will
-                                                    know some features of a book (author, illustrator, setting, character,
-                                                    etc)
-                                                    As the year progresses we engage the children more and more in retelling
-                                                    the stories that we read together, encouraging them to contribute to the
-                                                    conversation with specific language from the book. When we are reading
-                                                    non-fiction books, the children will begin to be able to recount details
-                                                    using pictures and props as prompts.
-                                                    For phonological awareness, we continue to work on learning rhyming and
-                                                    alliteration through songs and poems. We also begin to make the children
-                                                    aware that sentences are made up of individual words and eventually that
-                                                    words are made up of syllables.
-                                                    As children enter PK3 they should already have some awareness of the
-                                                    letters in their name. We continue to build on this and by the end of
-                                                    the year, as we introduce the alphabet, the students should recognize as
-                                                    many as 10 letters and be able to identify the sounds of some of them.
-                                                    As children continue to develop in their ability to hold writing tools,
-                                                    they also grow in their desire to communicate through drawing, writing
-                                                    and dictating. We incorporate pre-writing in our program and so provide
-                                                    the children the opportunity to grow. By the end of the year, most of
-                                                    them will write mock letters or letter like forms and begin to write
-                                                    letter strings
+                                                <p>In PK3, literacy becomes a vital area in a child’s language development;
+                                                    therefore, we place a strong emphasis on pre-literacy. Literacy
+                                                    activities in this class become more structured and interactive.
+                                                    Students practice recognizing and naming letters of the alphabet, both
+                                                    in books and classroom displays. They enjoy participating in storytime,
+                                                    where they can predict and discuss plot elements, and they start to
+                                                    retell familiar stories in their own words. Classroom activities also
+                                                    include sorting letters, engaging in letter-sound matching games, and
+                                                    practicing simple writing skills like drawing, tracing, and attempting
+                                                    to write their names.
                                                 </p>
                                             </div>
                                         </div>
@@ -147,27 +120,23 @@
                                         <div class="tabs_item">
                                             <div class="class-desc-content">
                                                 <br>
-                                                <p>This area of development and learning encompasses number concepts,
-                                                    spatial relationships, shapes, measurement and patterns.
-                                                    At the beginning of the year most children verbally count to 10;
-                                                    counting up to five objects accurately. They are also able to recognize
-                                                    and name a few numerals. As we continue to work on counting in playful
-                                                    ways, by the end of the year they will likely be able to verbally count
-                                                    to 20 and know what number comes next. They will be able to combine and
-                                                    separate up to five objects and describe the parts as well as identify
-                                                    numerals 1-10 by name and connect each to counted objects.
-                                                    When children come to PK3 most of them already are able to follow simple
-                                                    directions related to proximity (beside, between, next to) throughout
-                                                    the year we add such concepts as location,
-                                                    direction and distance. We also build on their basic knowledge of shapes
-                                                    and begin introducing three-dimensional shapes as well as presenting
-                                                    two-dimensional shapes in new orientations.
-                                                    As we work on measurement the children will grow from making simple
-                                                    comparisons of two objects to comparing and ordering small sets of
-                                                    objects according to size, length, weight, area or volume. They will
-                                                    also be introduced to ordinal numbers.
-                                                    Finally, the children will continue to practice recognizing and copying
-                                                    simple repeating patterns.</p>
+                                                <p>In PK3, students focus on recognizing and naming numerals and shapes
+                                                    through engaging rhymes, crafts, and playful counting activities.
+                                                    Teachers support this learning with visual aids such as number cards,
+                                                    posters, and counting mats to enhance counting exercises. By the end of
+                                                    the year, students will advance to counting aloud up to 20,
+                                                    understanding the numerical sequence, and identifying shapes in various
+                                                    orientations. They will learn to combine and separate objects, describe
+                                                    quantities as "more than" or "less than," and connect numerals 1-10 to
+                                                    their corresponding objects. As they explore measurement, students will
+                                                    move from comparing two objects to ordering small sets by attributes
+                                                    such as size, length, and weight. They will also develop skills in
+                                                    identifying similarities and differences among objects, numbers, shapes,
+                                                    and colors. Their ability to recognize and extend simple patterns, such
+                                                    as repeating sequences of colors or shapes, will continue to grow.
+                                                    Throughout the year, they will practice following simple directions
+                                                    related to proximity (beside, between, next to) and expand their
+                                                    understanding of location, direction, and distance.</p>
                                             </div>
                                         </div>
                                     </div>

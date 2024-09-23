@@ -64,18 +64,15 @@
                                             <div class="class-desc-content">
                                                 <br>
 
-                                                <p>In PK1 we support and encourage the development of the children in the
-                                                    areas of self-regulation, positive relationships and group
-                                                    participation.
-                                                    At the beginning of the year we are focusing on creating a welcoming
-                                                    atmosphere in the classroom where the students can all feel safe. We
-                                                    recognize that for many of them this is the first time they have been
-                                                    away from their families and we want to support them in that adjustment.
-                                                    From the beginning we make an effort to listen to each child and help
-                                                    them learn how to communicate their needs and desires in a
-                                                    developmentally appropriate way.
-                                                    Our class is a community where we learn how to work together and care
-                                                    for one another.
+                                                <p>In PK1, we understand that for many children, this may be their first
+                                                    experience away from their families, and we are committed to supporting
+                                                    them through this transition. At the start of the year, our focus is on
+                                                    fostering a welcoming and secure classroom environment where every
+                                                    student feels safe. As they observe, explore, imitate, and participate
+                                                    in simple play, they begin to develop essential social skills. Our goal
+                                                    is to create a nurturing and supportive setting that provides
+                                                    opportunities for students which lay the groundwork for their social and
+                                                    emotional growth.
                                                 </p>
                                             </div>
                                         </div>
@@ -84,17 +81,14 @@
                                             <div class="class-desc-content">
                                                 <br>
 
-                                                <p>In this area we actively work on supporting the development of the
-                                                    children’s various physical skills, such as traveling (how they get
-                                                    around), balancing, gross-motor and fine-motor.
-                                                    Both in the classroom and outside we incorporate a lot of movement
-                                                    throughout the day which strengthens and challenges the children. We
-                                                    will not push someone to try something they are not ready to do, but
-                                                    provide gentle and supportive opportunities. We incorporate balls and
-                                                    hoops, tunnels, climbing walls, dancing and running throughout the day.
-                                                    For fine-motor development at this age we focus on strengthening the
-                                                    hand muscles through many playful activities, such as using play-do and
-                                                    squeezing or pinching things.
+                                                <p>In PK1, toddlers are beginning to walk steadily and explore their
+                                                    environment with increasing confidence. Their gross motor skills include
+                                                    walking with more balance and starting to run or walk quickly with some
+                                                    instability. They can grasp small objects with their whole hand and may
+                                                    start using their thumb and fingers more precisely to pick up items like
+                                                    small blocks or toys. At this stage, they might also begin to show
+                                                    ability in climbing, such as trying to pull themselves up, changing
+                                                    direction, and navigating around obstacles.
                                                 </p>
                                             </div>
                                         </div>
@@ -103,14 +97,14 @@
                                             <div class="class-desc-content">
                                                 <br>
 
-                                                <p>This is a vital area in the development of a child as well as for
-                                                    language learning, therefore we place a strong emphasis on pre-literacy.
-                                                    Every day there are opportunities for the children to look at books and
-                                                    also for group read-aloud times. We will focus on interactive books that
-                                                    engage the children. We will also use many songs and chants to begin
-                                                    introducing the concept of rhyme and alliteration.
-                                                    As the year progresses we will begin to help the children recognize
-                                                    their name in print and begin introducing other print concepts.
+                                                <p>In PK1, literacy development focuses on fostering early language skills
+                                                    through interactive and sensory-rich activities, rhymes, and songs.
+                                                    Children engage with picture books, where they enjoy looking at colorful
+                                                    images and listening to repetitive read-aloud stories. They also enjoy
+                                                    singing along to simple songs that include gestures or actions.
+                                                    Classroom activities include pointing to pictures and naming objects, as
+                                                    well as exploring books with tactile elements, which helps students
+                                                    connect words with images and sounds.
                                                 </p>
                                             </div>
                                         </div>
@@ -118,17 +112,14 @@
                                         <div class="tabs_item">
                                             <div class="class-desc-content">
                                                 <br>
-                                                <p>Since PK1 is a half day preschool program, our focus is on language and
-                                                    pre-literacy. However, various mathematical concepts will also be
-                                                    incorporated, such as counting and shapes.
-                                                    Counting is so much fun that it is easy to incorporate from the very
-                                                    beginning of the year without high expectations. By the end of the year
-                                                    they should be able to count up to 10 successfully.
-                                                    Spatial relationships and shapes are introduced from the beginning of
-                                                    the year growing to a place where the children should be able to
-                                                    recognize a few basic shapes and also be able to follow basic
-                                                    instructions related to position (in, on, under, up, down) and proximity
-                                                    (beside, between, next to)
+                                                <p>In PK1, children are introduced to fundamental mathematical concepts
+                                                    through engaging, hands-on sensory-based activities. Teachers
+                                                    incorporate a variety of toys and materials to help toddlers explore and
+                                                    identify basic shapes and colors. During circle time, simple counting
+                                                    songs and rhymes emphasize numbers and basic counting, aiming to have
+                                                    children count up to five by the end of the year. They also begin to
+                                                    understand positional terms such as "in," "on," "under," “up,” or “down”
+                                                    through playful interactive activities.
                                                 </p>
                                             </div>
                                         </div>

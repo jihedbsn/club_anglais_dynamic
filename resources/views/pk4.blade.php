@@ -66,22 +66,20 @@
                                             <div class="class-desc-content">
                                                 <br>
 
-                                                <p>In PK4 we support and encourage the development of the children in the
-                                                    areas of self-regulation, positive relationships and group
-                                                    participation. At the beginning of the year we seek to create a
-                                                    welcoming environment for every child. In order to create a safe and fun
-                                                    place for everyone we clearly communicate the classroom routines and
-                                                    expectations, which most children at this age are able to grasp quickly
-                                                    and grow in following throughout the year.
-                                                    From the beginning of the year we foster self-confidence by giving the
-                                                    students responsibility to care for their own wellbeing and also as part
-                                                    of the class.
-                                                    It is natural at this age for children to begin developing special
-                                                    relationships with two to three children. We encourage and support this
-                                                    as well as helping them find ways to include everyone.
-                                                    Inevitably social problems arise. We are always available to help the
-                                                    children and give them the tools they need to be able to negotiate and
-                                                    compromise to find a solution.
+                                                <p>In PK4, we clearly outline classroom routines and expectations, which
+                                                    children at this age generally grasp quickly and follow as the year
+                                                    progresses. From the start, we emphasize a sense of self-confidence and
+                                                    responsibility by allowing students to care for their own well-being and
+                                                    by giving them jobs and roles in the class. It's natural for them to
+                                                    form close bonds with a few peers, and we support these special
+                                                    relationships while encouraging inclusivity. Social conflicts are a
+                                                    regular part of development, and we are always available to assist
+                                                    children in navigating and resolving these issues by teaching them the
+                                                    skills of negotiation and compromise. As friendships deepen and
+                                                    cooperative play becomes more intricate, we emphasize group activities,
+                                                    guide emotional regulation, and nurture empathy. Children increasingly
+                                                    recognize how their actions affect others and demonstrate growing
+                                                    empathy towards their peers.
                                                 </p>
                                             </div>
                                         </div>
@@ -90,23 +88,20 @@
                                             <div class="class-desc-content">
                                                 <br>
 
-                                                <p>In this area we actively work on supporting the development of the
-                                                    children’s various physical skills, such as traveling (how they get
-                                                    around), balancing, gross-motor and fine-motor.
-                                                    Both in the classroom and outside we incorporate a lot of movement
-                                                    throughout the day which strengthens and challenges the children.
-                                                    At this age children have already developed fairly capable coordination
-                                                    and balance and therefore we are able to introduce them to more complex
-                                                    activities, such as obstacle courses, races and choreographed dances.
-                                                    Balls and other gross-motor toys are a fun and vital part of continuing
-                                                    to grow both physically and socially.
-                                                    In PK4 we continue to build on the fine-motor skills the children have
-                                                    already developed. We help correct and practice appropriate hold of
-                                                    drawing and writing tools and practice cutting carefully with scissors.
-                                                    By the end of the year the children will begin to use a three-point
-                                                    finger grip and efficient hand placement when writing and drawing. They
-                                                    will also likely be able to cut along a line with accuracy and cut out a
-                                                    circle as well as other shapes.
+                                                <p>In PK4, physical development is supported through gross motor activities
+                                                    like running, racing, jumping, climbing, choreographed dances, and yoga.
+                                                    Children learn about proximity, direction, and positional terms through
+                                                    interactive activities like navigating through obstacle courses and
+                                                    playing games that involve following directions such as "under," "over,"
+                                                    "between,” and "beside." They can run smoothly, hop on one foot, and
+                                                    shoot and catch balls with more coordination. Their fine motor skills
+                                                    are refined through performing tasks such as making recognizable
+                                                    drawings, writing letters, cutting along lines with scissors, and
+                                                    building more complex structures with blocks and toys. They can also
+                                                    engage in craft activities that require fine manipulation, such as
+                                                    cutting, gluing, and assembling detailed models. They show increasing
+                                                    ability to manage buttons, snaps, and zippers, allowing them to be more
+                                                    independent in dressing themselves and using the facilities.
                                                 </p>
                                             </div>
                                         </div>
@@ -115,30 +110,18 @@
                                             <div class="class-desc-content">
                                                 <br>
 
-                                                <p>This is a vital area in the development of a child as well as for
-                                                    language learning, therefore we place a strong emphasis on pre-literacy.
-                                                    Throughout the day there is time to interact with books quietly
-                                                    individually, in twos and as a group with the teacher and later students
-                                                    lead the read-aloud time. As they develop their ability to ask and
-                                                    answer questions about a text and also recount details of a story, the
-                                                    PK4 students may also be assigned as reading buddies with the younger
-                                                    class.
-                                                    Most of the students will begin PK4 with a basic understanding of rhyme
-                                                    and alliteration. We will continue to build on this knowledge and help
-                                                    develop their phonological awareness to where they are able to begin
-                                                    sounding out one-syllable words.
-                                                    Throughout the year we will continue to introduce the alphabet both
-                                                    lower-case and upper-case, with the goal of the children being able to
-                                                    identify and name 11-20 letters when presented in random order by the
-                                                    end of the year. They will also be able to begin producing at least one
-                                                    correct sound for each letter in the alphabet, and come up with words
-                                                    that begin with a given letter.
-                                                    In PK4 the children are at a place developmentally where they are able
-                                                    to trace letters more carefully and begin writing them on their own. In
-                                                    this way, they will begin to learn to write their name accurately. As
-                                                    they grow in their desire to communicate messages in written form, they
-                                                    will continue to use drawing, dictation and early invented spelling to
-                                                    accomplish this.
+                                                <p>In PK4, we focus on developing literacy skills through engaging
+                                                    activities. Students interact with books individually and in groups,
+                                                    having the opportunity to lead read-aloud sessions further in the year.
+                                                    They explore storytelling with picture books and personal experiences to
+                                                    enhance comprehension and expression. We emphasize letter recognition,
+                                                    sound blending, and early writing skills. By the end of the year,
+                                                    students should identify, name, and write 11-20 capital and lowercase
+                                                    letters in random order, produce sounds for each letter, and generate
+                                                    words starting with specific letters. Activities include interactive
+                                                    read-alouds, letter-sound matching, vocabulary games, and name writing,
+                                                    all designed to support their literacy growth in a fun and supportive
+                                                    environment.
                                                 </p>
                                             </div>
                                         </div>
@@ -146,26 +129,26 @@
                                         <div class="tabs_item">
                                             <div class="class-desc-content">
                                                 <br>
-                                                <p>This area of development and learning encompasses number concepts,
-                                                    spatial relationships, shapes, measurement and patterns.
-                                                    At the beginning of the year we will review and solidify the children’s
-                                                    knowledge of the numerals 1-10 and build on their counting skills. As
-                                                    the year progresses the children will learn to make sets of objects and
-                                                    describe the parts which have more, less or the same. By the end of the
-                                                    year they will be introduced to addition and subtraction word problems
-                                                    of whole numbers within 10 using a variety of strategies.
-                                                    In PK4 students will have a basic understanding of positional words
-                                                    indicating location, direction and distance. By the end of the year they
-                                                    may begin to make and use simple sketches, models, or pictorial maps to
-                                                    locate objects. They will continue to learn about 2 and 3-dimensional
-                                                    shapes and be able to describe these in their own words.
-                                                    For measurement the children will begin to learn how to use some
-                                                    standard measuring tools as well as relating time to daily routines and
-                                                    schedule. By the end of the year they may begin to create simple graphs
-                                                    using simple comparison and ordinal terms to describe their finding.
-                                                    As 4 to 5 year olds, children in PK4 will learn how to extend and create
-                                                    simple repeating patterns and by the end of the year begin to recognize,
-                                                    create and explain more complex repeating and simple growing patterns.
+                                                <p>In PK4, mathematical development encompasses number concepts, spatial
+                                                    relationships, shapes, measurement, sequencing, and patterns. As the
+                                                    year progresses, students practice counting beyond 20, recognizing and
+                                                    naming teen numbers, and ordering a set of given numbers. They will
+                                                    begin to solve simple addition and subtraction problems using
+                                                    manipulatives like counters and number lines. They also engage in
+                                                    interactive math games. Students will learn to create sets of objects
+                                                    and describe their quantities as having more than, less than, or the
+                                                    same as other object sets. They will practice interpreting and creating
+                                                    simple graphs to represent and compare quantities of various animals,
+                                                    objects, pictures, and shapes. Additionally, students will start to
+                                                    compare measurements with greater accuracy, understanding concepts such
+                                                    as taller, shorter, heavier, and lighter. They will continue to explore
+                                                    2D and 3D shapes, learning about their properties as well as associating
+                                                    shapes with objects around their environment. Pattern activities will
+                                                    become more complex, with children creating and identifying intricate
+                                                    patterns using various materials, which helps them understand and
+                                                    predict sequences. Students will become more familiar with the concept
+                                                    of time as they follow classroom schedules and daily routines, which
+                                                    will help them understand sequencing and the passage of time.
                                                 </p>
                                             </div>
                                         </div>
