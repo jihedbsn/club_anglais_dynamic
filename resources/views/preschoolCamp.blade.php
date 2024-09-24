@@ -61,7 +61,7 @@
                         <ul>
                             <li>
                                 <span>Age:</span>
-                                6 - 14 Years Old
+                                2 - 5 Years Old
                             </li>
                             <li>
                                 <span>Time:</span>
