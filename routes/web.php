@@ -17,7 +17,13 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
+Route::get('/fr', function () {
+    return view('home');
+});
 
+Route::get('/en', function () {
+    return view('home');
+});
 Route::get('/about', function () {
     return view('about');
 });
