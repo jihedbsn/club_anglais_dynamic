@@ -7621,6 +7621,8 @@ Buy Now Btn
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+    display: flex;
+    justify-content: center;
 }
 
 .slide::before {
@@ -7665,7 +7667,7 @@ Buy Now Btn
     top: 60%;
     transform: translateY(-80%);
     /* color: #fff; */
-    padding: 0 20%;
+    /* padding: 0 20%; */
 }
 
 /* .slide-content h1 {
