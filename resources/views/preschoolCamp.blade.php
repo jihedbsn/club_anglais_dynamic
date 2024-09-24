@@ -32,13 +32,21 @@
 
                         <div class="event-desc-content">
                             <h3>Discover Our Preschool Camp</h3>
-                            <p>Every summer ClubAnglais holds two intensive two-week Summer Camp sessions for children ages
-                                6-14 y.o. The camps schedule is from Monday through Friday from 9:00am until 4:00pm. </p>
-                            <p>We teach English through fun, engaging activities such as sports, games, swimming,
-                                woodworking, music, art and drama.
+                            <p>
+
+                                In preschool summer camp, we invite children from 2 to 5 years old to participate in fun
+                                engaging activities. The students will be in different classes according to their age .These
+                                activities vary according to the students' ages and abilities . These activities include
+                                sensory activities , music , arts and crafts ,recycling, cooking , theater and swimming .
                             </p>
-                            <p>This all-day immersion approach is an excellent way for your child to make rapid progress in
-                                learning English.</p>
+                            <p>
+                                Every class chooses a theme that they will be working on for the duration of the camp. Each
+                                class except for the youngest class has pool time where a swimming instructor encourages
+                                them to be more comfortable in water and learn beginner moves .
+                            </p>
+
+
+
                         </div>
                     </div>
                     <div class="centred-button">
