@@ -28,7 +28,7 @@
                 <div class="col-lg-8 col-md-12">
                     <div class="class-details-desc">
                         <div class="class-desc-image">
-                            <img src="assets/img/pk/pk3main.png" alt="image">
+                            <img src="assets/img/pk/pk3main.jpg" alt="image">
 
                             {{-- <img src="assets/img/class-details.jpg" alt="image"> --}}
                         </div>
