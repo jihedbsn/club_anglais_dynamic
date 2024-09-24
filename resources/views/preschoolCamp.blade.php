@@ -27,7 +27,7 @@
                 <div class="col-lg-8 col-md-12">
                     <div class="event-details-desc">
                         <div class="event-desc-image">
-                            <img src="assets/img/pkcampmain.jpg" alt="image">
+                            <img src="assets/img/pkcampmain1.jpg" alt="image">
                         </div>
 
                         <div class="event-desc-content">

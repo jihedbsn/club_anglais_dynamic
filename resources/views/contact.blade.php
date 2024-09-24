@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <div class="page-banner-area">
+    <div class="page-banner-area contact-page">
         <div class="d-table">
             <div class="d-table-cell">
                 <div class="container">
@@ -122,7 +122,7 @@
                             <li><span>Wednesday:</span> 8AM - 6:30PM</li>
                             <li><span>Thursday:</span> 8AM - 5PM</li>
                             <li><span>Friday:</span> 8AM - 5PM</li>
-                            <li><span>SATURDAY:</span> 9AM - 5PM</li>
+                            <li><span>Saturday:</span> 9AM - 5PM</li>
                         </ul>
                     </div>
                 </div>

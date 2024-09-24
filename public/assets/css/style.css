@@ -4366,6 +4366,9 @@ Page Banner CSS
 .page-banner-area.item-pk4 {
     background-image: url(../img/pk/pk4cover.png);
 }
+.page-banner-area.contact-page {
+    background-image: url(../img/contactimg.jpg);
+}
 .page-banner-content {
     text-align: center;
 }
@@ -7789,3 +7792,13 @@ Buy Now Btn
 button.owl-next {
     display: none;
 } */
+
+
+
+.event-desc-image img{
+
+     height: 600px;
+     width: 100%;
+
+     object-fit: cover;
+}
