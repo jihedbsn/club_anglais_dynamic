@@ -209,8 +209,8 @@
         </div>
 
         <!--          <div class="who-we-are-shape">
-                                                                                                                                                                                                                                                                                                                        <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
-                                                                                                                                                                                                                                                                                                                    </div> -->
+                                                                                                                                                                                                                                                                                                                                                <img src="assets/img/who-we-are/who-we-are-shape.png" alt="image">
+                                                                                                                                                                                                                                                                                                                                            </div> -->
     </section>
     <!-- End Value Area -->
 
@@ -403,12 +403,12 @@
                         <div class="icon">
                             <i class='bx bxs-quote-left'></i>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                            maecenas accumsan lacus vel facilisis.</p>
+                        <p>Mes enfants de 8 et 6 ans adorent le Club Anglais! Ils y vont dans l'année depuis 2 ans chaque
+                            mercredi après-midi et font cette année pour la première fois le summer camp en juillet. Ils
+                            ADORENT!!!!</p>
                         <div class="info-box">
-                            <h3>Glims Bond</h3>
-                            <span>Music Teacher</span>
+                            <h3>Claire Azzabi</h3>
+                            {{-- <span>Music Teacher</span> --}}
                         </div>
                     </div>
                     <div class="testimonials-image">
@@ -421,19 +421,34 @@
                         <div class="icon">
                             <i class='bx bxs-quote-left'></i>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                            maecenas accumsan lacus vel facilisis.</p>
+                        <p>Personal, patient, interactive learning taught by educators and committed staff who invest
+                            themselves in gifting children with practice toward proficiency in the English language, in a
+                            context of caring relationships. Bravo, ClubAnglais!</p>
                         <div class="info-box">
-                            <h3>Sherlock Bin</h3>
-                            <span>Art Teacher</span>
+                            <h3>Sherry Hall</h3>
+                            {{-- <span>Art Teacher</span> --}}
                         </div>
                     </div>
                     <div class="testimonials-image">
                         <img src="assets/img/testimonials/testimonials-2.png" alt="image">
                     </div>
                 </div>
-
+                <div class="testimonials-item">
+                    <div class="testimonials-item-box">
+                        <div class="icon">
+                            <i class='bx bxs-quote-left'></i>
+                        </div>
+                        <p> Très bonne ambiance d'apprentissage, équipe souriante et dynamique, bon état d'esprit. Mon fils
+                            a bien aimé summer Camp. Bravo à toute l'équipe et bonne continuation!!!💞💖💞💝🥰🥰💓💓</p>
+                        <div class="info-box">
+                            <h3>Insaf Mazhoud</h3>
+                            {{-- <span>Art Teacher</span> --}}
+                        </div>
+                    </div>
+                    <div class="testimonials-image">
+                        <img src="assets/img/testimonials/testimonials-3.png" alt="image">
+                    </div>
+                </div>
 
             </div>
         </div>
@@ -481,16 +496,16 @@
                                     Saturday afternoon
                                 </li>
                                 <!-- <li>
-                                                                                                                                                                                                                                                                                                                                                <i class='bx bxs-cart'></i>
-                                                                                                                                                                                                                                                                                                                                                4 weeks per session <br> 200 TND per session
-                                                                                                                                                                                                                                                                                                                                            </li> -->
+                                                                                                                                                                                                                                                                                                                                                                        <i class='bx bxs-cart'></i>
+                                                                                                                                                                                                                                                                                                                                                                        4 weeks per session <br> 200 TND per session
+                                                                                                                                                                                                                                                                                                                                                                    </li> -->
                             </ul>
                         </div>
                     </div>
 
                     <div class="col-md-3">
                         <div class="event-date">
-                            <h4>Ages: 2-5 y.o</h4>
+                            <h4>Ages: 3-5 y.o</h4>
                             <br>
                             <div class="class-btn">
                                 <a href="/preschool-club" class="default-btn">Learn More</a>
@@ -531,9 +546,9 @@
                                     Saturday afternoon
                                 </li>
                                 <!-- <li>
-                                                                                                                                                                                                                                                                                                                                                <i class='bx bxs-cart'></i>
-                                                                                                                                                                                                                                                                                                                                                4 weeks per session <br> 200 TND per session
-                                                                                                                                                                                                                                                                                                                                            </li> -->
+                                                                                                                                                                                                                                                                                                                                                                        <i class='bx bxs-cart'></i>
+                                                                                                                                                                                                                                                                                                                                                                        4 weeks per session <br> 200 TND per session
+                                                                                                                                                                                                                                                                                                                                                                    </li> -->
                             </ul>
                         </div>
                     </div>
@@ -597,8 +612,8 @@
                                 <img src="assets/img/choose/choose-shape-2.png" alt="image">
                             </div> --}}
                             <!--  <div class="shape-3">
-                                                                                                                                                                                                                                                                                                                                            <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                                                                                                                                                                                                                                                                                                                        </div> -->
+                                                                                                                                                                                                                                                                                                                                                                    <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                                                                                                                                                                                                                                                </div> -->
                         </div>
                         <img src="assets/img/preschool-club.png" alt="image">
 
@@ -619,8 +634,8 @@
                                 <img src="assets/img/choose/choose-shape-2.png" alt="image">
                             </div>
                             <!--  <div class="shape-3">
-                                                                                                                                                                                                                                                                                                                                            <img src="assets/img/choose/choose-shape-3.png" alt="image">
-                                                                                                                                                                                                                                                                                                                                        </div> -->
+                                                                                                                                                                                                                                                                                                                                                                    <img src="assets/img/choose/choose-shape-3.png" alt="image">
+                                                                                                                                                                                                                                                                                                                                                                </div> -->
                         </div>
                     </div>
                 </div>

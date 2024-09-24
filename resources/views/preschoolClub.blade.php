@@ -69,14 +69,17 @@
                             </li>
                             <li>
                                 <span>1 :</span>
-                                Wednesday afternoon
+                                Wednesday afternoon 15H30 -18H30
                             </li>
                             <li>
                                 <span>2 :</span>
-                                Saturday morning
+                                Saturday morning 9H -12H
                             </li>
 
-
+                            <li>
+                                <span>2 :</span>
+                                Saturday afternoon 14H - 17H
+                            </li>
                         </ul>
                     </div>
                 </div>

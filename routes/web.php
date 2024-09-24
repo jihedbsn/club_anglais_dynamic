@@ -14,12 +14,18 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::permanentRedirect('/en', '/');
+Route::permanentRedirect('/fr', '/');
+Route::permanentRedirect('/fr/nos-clubs-camps', '/');
+Route::permanentRedirect('/fr/our-approach-4', '/');
+Route::permanentRedirect('/fr/notre-maternelle', '/');
+Route::permanentRedirect('/fr/log-in', '/');
+Route::permanentRedirect('/fr/nos-locaux/galerie-photos', '/');
+
 Route::get('/', function () {
     return view('home');
 });
-Route::get('/fr', function () {
-    return view('home');
-});
+
 
 Route::get('/en', function () {
     return view('home');
