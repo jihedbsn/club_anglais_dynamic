@@ -31,7 +31,7 @@
                         </div>
 
                         <div class="event-desc-content">
-                            <h3>Discover Our Preschool Camp</h3>
+                            <h3>Discover Our Preschool Summer Camp</h3>
                             <p>
 
                                 In preschool summer camp, we invite children from 2 to 5 years old to participate in fun

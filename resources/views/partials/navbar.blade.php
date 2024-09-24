@@ -113,7 +113,7 @@
                             </li>
                             <li class="nav-item">
                                 <a href="{{ url('/preschool-camp') }}" class="nav-link">
-                                    Preschool camp
+                                    Preschool summer camp
                                 </a>
                             </li>
 

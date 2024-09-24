@@ -69,7 +69,7 @@
                                             <option value="Preschool club">Preschool club</option>
                                             <option value="Adventure club">Adventure club</option>
                                             <option value="Power camp">Power camp</option>
-                                            <option value="Preschool camp">Preschool camp</option>
+                                            <option value="Preschool camp">Preschool summer camp</option>
                                             <option value="Other">Other</option>
                                         </select>
                                         <div class="help-block with-errors"></div>
